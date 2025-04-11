@@ -1,0 +1,1001 @@
+Gene,SNP,Chromosome,Position,Genotype,Risk Associated Condition,Risk Level,Effect,Risk Percentage,Emergency Medicine,Guidelines
+SORT1,rs9939609,12,141393646,TT,Multiple Sclerosis,High,Increases inflammation,30,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+MTHFR,rs328,3,10861513,AG,Cancer,High,Affects fat storage and appetite,33,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+FTO,rs1800795,2,36267222,GG,Heart Disease,High,Increases cholesterol levels,69,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+FTO,rs1800795,19,104558577,CT,Multiple Sclerosis,High,Increases cholesterol levels,48,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+MC4R,rs9939609,17,65382330,CT,Type 2 Diabetes,Medium,Decreases cholesterol levels,63,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+MC4R,rs5930,13,75329647,CT,Heart Disease,Low,Affects fat storage and appetite,67,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+IL6,rs17782313,5,24476620,GG,Multiple Sclerosis,High,Affects fat storage and appetite,54,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+TP53,rs17782313,11,127779984,TT,Neural Tube Defects,Medium,Affects lipid metabolism,45,Consult specialist,Follow doctor’s advice
+BRCA2,rs2395185,10,46688816,TT,Type 2 Diabetes,Low,Decreases cholesterol levels,69,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+SORT1,rs9939609,4,124152103,CC,Breast Cancer,Medium,Increases inflammation,71,Consult specialist,Follow doctor’s advice
+PCSK9,rs144848,17,10744332,CT,Heart Disease,Low,Increases inflammation,77,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+HLA-DRB1,rs2395185,15,63475519,AA,Stroke,Medium,Affects fat storage and appetite,62,Consult specialist,Follow doctor’s advice
+SORT1,rs144848,6,112173212,AA,Breast Cancer,Low,Affects fat storage and appetite,34,Consult specialist,Follow doctor’s advice
+LDLR,rs1800795,4,14933117,CT,Alzheimer's Disease,High,Decreases cholesterol levels,61,Consult specialist,Follow doctor’s advice
+BRCA2,rs144848,20,105491777,CT,Multiple Sclerosis,High,Affects folate metabolism,70,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+IL6,rs429358,7,44707091,AA,Breast Cancer,Low,Increases risk of cancer,67,Consult specialist,Follow doctor’s advice
+TP53,rs799917,14,129429319,AA,Type 2 Diabetes,Medium,Affects lipid metabolism,43,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+LPL,rs2395185,8,41126453,AG,Cancer,Low,Increases inflammation,41,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+TP53,rs9939609,14,39144861,TT,Breast Cancer,High,Decreases cholesterol levels,73,Consult specialist,Follow doctor’s advice
+APOE,rs562556,7,76870634,CC,Cancer,High,Increases cholesterol levels,63,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+BRCA1,rs1800795,2,76354059,AA,Multiple Sclerosis,Low,Increases inflammation,52,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+SORT1,rs17782313,11,34912493,AA,Obesity,Medium,Affects folate metabolism,76,Consult specialist,Follow doctor’s advice
+MTHFR,rs5930,12,45140812,AG,Multiple Sclerosis,Low,Increases risk of cancer,43,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+HLA-DRB1,rs144848,15,41823668,TT,Multiple Sclerosis,Medium,Increases cholesterol levels,78,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+PCSK9,rs562556,7,52779685,AA,Multiple Sclerosis,Medium,Increases inflammation,44,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+APOE,rs328,3,110868605,AA,Cancer,High,Affects lipid metabolism,47,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+PCSK9,rs144848,8,59672586,CT,Heart Disease,Low,Increases cholesterol levels,60,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+IL6,rs144848,15,46030694,TT,Cancer,Low,Affects lipid metabolism,42,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+IL6,rs17782313,3,38362664,AG,Alzheimer's Disease,Low,Affects folate metabolism,35,Consult specialist,Follow doctor’s advice
+BRCA1,rs1801133,4,96153276,TT,Cancer,High,Increases risk of cancer,65,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+MC4R,rs144848,5,142954675,CT,Alzheimer's Disease,High,Affects fat storage and appetite,52,Consult specialist,Follow doctor’s advice
+BRCA1,rs1801133,16,26089830,AA,Cancer,High,Affects fat storage and appetite,63,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+MC4R,rs429358,13,84223823,GG,Breast Cancer,Medium,Impacts DNA repair mechanism,38,Consult specialist,Follow doctor’s advice
+BRCA1,rs3833302,4,16771463,GG,Type 2 Diabetes,Medium,Alters immune system function,47,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+APOE,rs9939609,19,65251745,AA,Stroke,Low,Increases inflammation,65,Consult specialist,Follow doctor’s advice
+IL6,rs5930,4,111921311,TT,Cancer,Low,Affects lipid metabolism,47,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+SORT1,rs429358,20,27518443,AG,Breast Cancer,Low,Decreases cholesterol levels,49,Consult specialist,Follow doctor’s advice
+SORT1,rs3833302,8,91188849,CT,Obesity,Medium,Alters immune system function,44,Consult specialist,Follow doctor’s advice
+APOE,rs5930,11,20799051,AG,Type 2 Diabetes,High,Affects fat storage and appetite,34,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+LPL,rs3833302,17,99086887,GG,Obesity,Low,Affects fat storage and appetite,30,Consult specialist,Follow doctor’s advice
+FTO,rs3833302,2,71370287,AA,Obesity,High,Increases risk of cancer,41,Consult specialist,Follow doctor’s advice
+PCSK9,rs17782313,8,75212410,CC,Multiple Sclerosis,High,Affects fat storage and appetite,78,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+HLA-DRB1,rs144848,3,36594573,AG,Neural Tube Defects,Medium,Affects folate metabolism,54,Consult specialist,Follow doctor’s advice
+MC4R,rs1800795,23,131038813,CC,Type 2 Diabetes,Medium,Affects lipid metabolism,49,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+APOE,rs1800795,19,89913252,AG,Heart Disease,Medium,Alters immune system function,75,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+IL6,rs1800795,19,133590718,TT,Cancer,Medium,Affects lipid metabolism,51,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+SORT1,rs3833302,18,35481861,TT,Alzheimer's Disease,Low,Impacts DNA repair mechanism,59,Consult specialist,Follow doctor’s advice
+PCSK9,rs1800795,2,75183516,GG,Alzheimer's Disease,Medium,Impacts DNA repair mechanism,54,Consult specialist,Follow doctor’s advice
+BRCA1,rs1801133,3,33686572,AG,Alzheimer's Disease,High,Increases inflammation,30,Consult specialist,Follow doctor’s advice
+LDLR,rs562556,20,102779925,TT,Alzheimer's Disease,Low,Increases risk of cancer,78,Consult specialist,Follow doctor’s advice
+MC4R,rs1801133,11,131310917,AA,Obesity,Low,Affects fat storage and appetite,57,Consult specialist,Follow doctor’s advice
+PCSK9,rs1801133,19,84749685,CT,Heart Disease,Low,Alters immune system function,67,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+BRCA2,rs2395185,5,11227757,TT,Heart Disease,High,Increases cholesterol levels,67,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+SORT1,rs562556,11,56372638,TT,Heart Disease,High,Increases risk of cancer,49,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+TP53,rs17782313,22,130897031,CT,Obesity,Low,Impacts DNA repair mechanism,43,Consult specialist,Follow doctor’s advice
+LDLR,rs328,2,103683064,GG,Stroke,Medium,Affects lipid metabolism,56,Consult specialist,Follow doctor’s advice
+APOE,rs9939609,13,58575073,AG,Type 2 Diabetes,Low,Affects fat storage and appetite,50,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+FTO,rs17782313,22,44250788,CT,Alzheimer's Disease,Medium,Impacts DNA repair mechanism,76,Consult specialist,Follow doctor’s advice
+IL6,rs144848,22,69430291,CC,Obesity,High,Decreases cholesterol levels,38,Consult specialist,Follow doctor’s advice
+IL6,rs1800795,1,116995039,CT,Multiple Sclerosis,Medium,Affects lipid metabolism,45,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+BRCA1,rs1801133,7,106893419,CC,Breast Cancer,High,Increases cholesterol levels,66,Consult specialist,Follow doctor’s advice
+MTHFR,rs3833302,18,55592733,AA,Obesity,Medium,Increases risk of cancer,48,Consult specialist,Follow doctor’s advice
+APOE,rs3833302,23,133108694,CT,Alzheimer's Disease,Medium,Decreases cholesterol levels,77,Consult specialist,Follow doctor’s advice
+BRCA1,rs17782313,5,24643416,TT,Obesity,Low,Affects folate metabolism,72,Consult specialist,Follow doctor’s advice
+LDLR,rs799917,13,57102204,AA,Cancer,Medium,Increases cholesterol levels,38,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+PCSK9,rs1800795,14,109612103,AA,Neural Tube Defects,High,Increases risk of cancer,75,Consult specialist,Follow doctor’s advice
+SORT1,rs5930,10,113942414,AA,Cancer,Medium,Affects lipid metabolism,43,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+BRCA1,rs562556,15,62901212,TT,Breast Cancer,High,Increases cholesterol levels,80,Consult specialist,Follow doctor’s advice
+LDLR,rs328,3,66133347,GG,Breast Cancer,Low,Affects fat storage and appetite,36,Consult specialist,Follow doctor’s advice
+APOE,rs17782313,6,81128865,AA,Type 2 Diabetes,High,Increases inflammation,60,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+LPL,rs1800795,1,109730518,AA,Neural Tube Defects,Low,Impacts DNA repair mechanism,69,Consult specialist,Follow doctor’s advice
+MC4R,rs3833302,20,10781147,CT,Cancer,Low,Impacts DNA repair mechanism,47,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+APOE,rs562556,15,51910728,CT,Type 2 Diabetes,Medium,Increases cholesterol levels,56,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+PCSK9,rs17782313,21,51591171,AA,Obesity,Medium,Affects folate metabolism,31,Consult specialist,Follow doctor’s advice
+LDLR,rs17782313,10,117507141,CT,Heart Disease,High,Affects lipid metabolism,57,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+PCSK9,rs1800795,13,38563831,AG,Heart Disease,Low,Alters immune system function,61,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+HLA-DRB1,rs2395185,11,18260865,AA,Type 2 Diabetes,Low,Increases cholesterol levels,37,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+LPL,rs799917,9,16936560,CC,Obesity,Medium,Affects lipid metabolism,52,Consult specialist,Follow doctor’s advice
+PCSK9,rs1800795,17,91138519,AA,Heart Disease,Medium,Alters immune system function,31,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+SORT1,rs2395185,20,55073046,CT,Obesity,Low,Affects folate metabolism,57,Consult specialist,Follow doctor’s advice
+APOE,rs1800795,18,110352667,CT,Stroke,High,Increases cholesterol levels,58,Consult specialist,Follow doctor’s advice
+MC4R,rs5930,22,99639220,GG,Neural Tube Defects,Low,Impacts DNA repair mechanism,33,Consult specialist,Follow doctor’s advice
+BRCA2,rs799917,5,21648611,GG,Neural Tube Defects,Low,Increases cholesterol levels,78,Consult specialist,Follow doctor’s advice
+FTO,rs9939609,2,54774009,CC,Breast Cancer,Medium,Impacts DNA repair mechanism,66,Consult specialist,Follow doctor’s advice
+PCSK9,rs3833302,2,79820391,GG,Neural Tube Defects,Low,Increases inflammation,32,Consult specialist,Follow doctor’s advice
+FTO,rs144848,1,105461795,AA,Breast Cancer,High,Increases inflammation,59,Consult specialist,Follow doctor’s advice
+SORT1,rs17782313,5,136179898,TT,Obesity,High,Increases cholesterol levels,69,Consult specialist,Follow doctor’s advice
+IL6,rs17782313,18,62115331,AG,Stroke,Medium,Impacts DNA repair mechanism,32,Consult specialist,Follow doctor’s advice
+LDLR,rs562556,9,124486981,AG,Alzheimer's Disease,High,Affects lipid metabolism,39,Consult specialist,Follow doctor’s advice
+FTO,rs9939609,17,102252870,TT,Cancer,Medium,Increases risk of cancer,55,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+LPL,rs5930,18,136005135,GG,Neural Tube Defects,High,Decreases cholesterol levels,53,Consult specialist,Follow doctor’s advice
+PCSK9,rs1801133,9,28746036,AG,Multiple Sclerosis,High,Alters immune system function,67,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+LPL,rs5930,6,49074185,CC,Heart Disease,Low,Affects lipid metabolism,76,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+MC4R,rs429358,18,136968973,TT,Neural Tube Defects,Medium,Increases cholesterol levels,71,Consult specialist,Follow doctor’s advice
+SORT1,rs429358,21,46146173,GG,Alzheimer's Disease,High,Decreases cholesterol levels,68,Consult specialist,Follow doctor’s advice
+PCSK9,rs429358,4,127445624,AA,Breast Cancer,Low,Decreases cholesterol levels,36,Consult specialist,Follow doctor’s advice
+BRCA1,rs562556,5,15616018,GG,Neural Tube Defects,Medium,Affects folate metabolism,71,Consult specialist,Follow doctor’s advice
+LPL,rs144848,11,102230180,CT,Obesity,Medium,Affects lipid metabolism,50,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs3833302,10,80253825,GG,Cancer,High,Decreases cholesterol levels,47,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+IL6,rs799917,7,63387509,AA,Obesity,High,Increases cholesterol levels,61,Consult specialist,Follow doctor’s advice
+TP53,rs1801133,3,127383818,TT,Alzheimer's Disease,Low,Increases inflammation,76,Consult specialist,Follow doctor’s advice
+MTHFR,rs429358,2,125506227,CT,Neural Tube Defects,Medium,Affects fat storage and appetite,67,Consult specialist,Follow doctor’s advice
+BRCA2,rs3833302,21,25705361,GG,Multiple Sclerosis,Low,Increases risk of cancer,43,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+BRCA1,rs2395185,1,111269302,GG,Stroke,High,Increases inflammation,67,Consult specialist,Follow doctor’s advice
+BRCA2,rs1800795,11,111647369,AG,Breast Cancer,High,Affects folate metabolism,63,Consult specialist,Follow doctor’s advice
+APOE,rs429358,3,86600210,CC,Multiple Sclerosis,High,Alters immune system function,38,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+LDLR,rs328,14,114105274,AA,Alzheimer's Disease,Low,Increases cholesterol levels,59,Consult specialist,Follow doctor’s advice
+BRCA1,rs9939609,22,70667253,GG,Heart Disease,Medium,Affects lipid metabolism,65,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+IL6,rs2395185,14,112766068,AG,Alzheimer's Disease,Medium,Decreases cholesterol levels,78,Consult specialist,Follow doctor’s advice
+MTHFR,rs9939609,14,136095408,TT,Type 2 Diabetes,Medium,Affects folate metabolism,64,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+SORT1,rs799917,13,13766441,CC,Breast Cancer,Low,Increases cholesterol levels,63,Consult specialist,Follow doctor’s advice
+LDLR,rs799917,5,35219810,AA,Obesity,Low,Alters immune system function,41,Consult specialist,Follow doctor’s advice
+MC4R,rs9939609,10,103893948,AA,Cancer,Low,Increases inflammation,52,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+FTO,rs1042522,18,122323354,CT,Alzheimer's Disease,High,Decreases cholesterol levels,77,Consult specialist,Follow doctor’s advice
+APOE,rs328,17,36250584,AA,Stroke,High,Impacts DNA repair mechanism,59,Consult specialist,Follow doctor’s advice
+PCSK9,rs3833302,17,146744014,AG,Cancer,High,Increases risk of cancer,39,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+LPL,rs17782313,7,139580392,GG,Multiple Sclerosis,High,Affects folate metabolism,37,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+BRCA1,rs17782313,5,77259967,CT,Cancer,Medium,Increases risk of cancer,49,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+PCSK9,rs1042522,5,76059573,CC,Cancer,High,Increases inflammation,62,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+BRCA1,rs144848,5,45750310,TT,Breast Cancer,High,Impacts DNA repair mechanism,34,Consult specialist,Follow doctor’s advice
+BRCA1,rs799917,4,142037541,GG,Breast Cancer,Low,Alters immune system function,80,Consult specialist,Follow doctor’s advice
+APOE,rs5930,11,115530806,GG,Breast Cancer,Low,Affects fat storage and appetite,77,Consult specialist,Follow doctor’s advice
+SORT1,rs5930,16,129609780,GG,Cancer,Medium,Affects fat storage and appetite,35,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+HLA-DRB1,rs799917,7,61695935,TT,Type 2 Diabetes,Low,Affects lipid metabolism,66,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+FTO,rs9939609,7,48183606,CT,Breast Cancer,Low,Increases risk of cancer,47,Consult specialist,Follow doctor’s advice
+LPL,rs1800795,16,55403671,GG,Stroke,Medium,Affects fat storage and appetite,42,Consult specialist,Follow doctor’s advice
+MC4R,rs328,20,31860187,CT,Neural Tube Defects,Medium,Increases risk of cancer,64,Consult specialist,Follow doctor’s advice
+MC4R,rs9939609,23,127811811,CT,Neural Tube Defects,High,Increases risk of cancer,51,Consult specialist,Follow doctor’s advice
+BRCA1,rs17782313,13,124003075,AA,Neural Tube Defects,High,Impacts DNA repair mechanism,75,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs799917,8,115636935,TT,Type 2 Diabetes,High,Alters immune system function,78,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+MC4R,rs5930,3,129642432,CC,Breast Cancer,Medium,Impacts DNA repair mechanism,53,Consult specialist,Follow doctor’s advice
+BRCA1,rs2395185,19,95880561,TT,Breast Cancer,Medium,Impacts DNA repair mechanism,67,Consult specialist,Follow doctor’s advice
+IL6,rs9939609,7,29344867,TT,Multiple Sclerosis,Medium,Alters immune system function,30,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+TP53,rs799917,16,133943412,CC,Alzheimer's Disease,High,Decreases cholesterol levels,60,Consult specialist,Follow doctor’s advice
+APOE,rs3833302,21,91887241,AG,Alzheimer's Disease,Medium,Increases risk of cancer,33,Consult specialist,Follow doctor’s advice
+BRCA2,rs1042522,20,21726843,AA,Cancer,Low,Increases cholesterol levels,47,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+LPL,rs1801133,23,36695733,TT,Type 2 Diabetes,Medium,Increases inflammation,60,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+HLA-DRB1,rs1801133,1,74362700,AG,Breast Cancer,Medium,Impacts DNA repair mechanism,79,Consult specialist,Follow doctor’s advice
+LDLR,rs2395185,4,28526968,TT,Heart Disease,Medium,Affects fat storage and appetite,34,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+TP53,rs17782313,16,146292343,CC,Neural Tube Defects,Medium,Affects fat storage and appetite,57,Consult specialist,Follow doctor’s advice
+IL6,rs144848,14,37011392,CT,Heart Disease,Medium,Impacts DNA repair mechanism,58,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+FTO,rs1800795,18,90260198,CC,Neural Tube Defects,Medium,Affects folate metabolism,49,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs799917,1,121015171,CT,Type 2 Diabetes,High,Impacts DNA repair mechanism,34,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+MC4R,rs562556,20,100846579,AA,Alzheimer's Disease,High,Affects folate metabolism,43,Consult specialist,Follow doctor’s advice
+FTO,rs1801133,10,80612389,GG,Heart Disease,Medium,Affects folate metabolism,32,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+APOE,rs328,2,106214859,CC,Type 2 Diabetes,Medium,Affects folate metabolism,75,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+FTO,rs328,22,135846977,TT,Cancer,Medium,Affects fat storage and appetite,63,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+PCSK9,rs1801133,23,70600916,CC,Cancer,Low,Decreases cholesterol levels,71,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+IL6,rs144848,7,97092262,GG,Stroke,Low,Alters immune system function,69,Consult specialist,Follow doctor’s advice
+MTHFR,rs328,17,76651979,GG,Neural Tube Defects,High,Affects folate metabolism,77,Consult specialist,Follow doctor’s advice
+LDLR,rs429358,14,32483504,AG,Breast Cancer,Low,Increases risk of cancer,50,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs1800795,19,12990271,CT,Breast Cancer,High,Increases risk of cancer,49,Consult specialist,Follow doctor’s advice
+MTHFR,rs328,18,51197390,TT,Multiple Sclerosis,Low,Alters immune system function,52,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+BRCA2,rs1801133,15,44095319,CT,Heart Disease,Medium,Decreases cholesterol levels,43,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+FTO,rs2395185,22,114045640,CC,Obesity,High,Affects fat storage and appetite,71,Consult specialist,Follow doctor’s advice
+APOE,rs9939609,12,78346961,CC,Heart Disease,Medium,Increases cholesterol levels,79,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+SORT1,rs429358,12,67666797,CT,Heart Disease,High,Affects folate metabolism,33,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+PCSK9,rs328,3,96877330,GG,Breast Cancer,High,Decreases cholesterol levels,61,Consult specialist,Follow doctor’s advice
+IL6,rs5930,23,108415879,TT,Heart Disease,Low,Increases cholesterol levels,52,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+BRCA2,rs429358,4,69555096,CT,Alzheimer's Disease,High,Decreases cholesterol levels,71,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs1042522,22,16848612,GG,Type 2 Diabetes,Low,Alters immune system function,44,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+IL6,rs5930,1,38340459,AG,Multiple Sclerosis,Low,Alters immune system function,33,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+MC4R,rs799917,8,94069415,GG,Cancer,Low,Impacts DNA repair mechanism,64,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+TP53,rs328,18,77263720,AA,Stroke,Medium,Increases cholesterol levels,54,Consult specialist,Follow doctor’s advice
+IL6,rs17782313,14,68127544,AA,Cancer,Low,Alters immune system function,68,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+TP53,rs17782313,22,19685606,CC,Cancer,Medium,Decreases cholesterol levels,66,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+HLA-DRB1,rs5930,10,112134110,CT,Breast Cancer,High,Affects fat storage and appetite,30,Consult specialist,Follow doctor’s advice
+APOE,rs1042522,6,17235991,TT,Alzheimer's Disease,High,Affects fat storage and appetite,62,Consult specialist,Follow doctor’s advice
+FTO,rs429358,19,51101545,AG,Stroke,Medium,Affects folate metabolism,60,Consult specialist,Follow doctor’s advice
+TP53,rs9939609,15,100340173,GG,Type 2 Diabetes,Medium,Affects fat storage and appetite,45,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+FTO,rs1042522,14,15701662,AA,Type 2 Diabetes,Low,Affects fat storage and appetite,52,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+IL6,rs1800795,11,103730744,AA,Neural Tube Defects,High,Increases risk of cancer,48,Consult specialist,Follow doctor’s advice
+LPL,rs429358,7,83888183,CT,Stroke,High,Increases risk of cancer,74,Consult specialist,Follow doctor’s advice
+MC4R,rs1800795,22,84206076,TT,Obesity,Low,Increases risk of cancer,78,Consult specialist,Follow doctor’s advice
+MTHFR,rs5930,18,29586252,CC,Multiple Sclerosis,High,Affects fat storage and appetite,34,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+FTO,rs1042522,8,80353731,TT,Alzheimer's Disease,Low,Decreases cholesterol levels,64,Consult specialist,Follow doctor’s advice
+LPL,rs2395185,4,64341169,GG,Alzheimer's Disease,Medium,Increases cholesterol levels,56,Consult specialist,Follow doctor’s advice
+LPL,rs1801133,7,113869206,AA,Alzheimer's Disease,Low,Affects lipid metabolism,78,Consult specialist,Follow doctor’s advice
+FTO,rs429358,9,115337372,GG,Type 2 Diabetes,High,Increases cholesterol levels,55,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+IL6,rs5930,4,57881089,AG,Heart Disease,Low,Impacts DNA repair mechanism,65,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+LPL,rs2395185,23,57624673,CC,Stroke,High,Affects folate metabolism,73,Consult specialist,Follow doctor’s advice
+PCSK9,rs1800795,19,128361551,AA,Cancer,High,Impacts DNA repair mechanism,64,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+TP53,rs328,5,46247456,AG,Multiple Sclerosis,Medium,Impacts DNA repair mechanism,57,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+SORT1,rs562556,21,91241635,CT,Stroke,High,Affects folate metabolism,37,Consult specialist,Follow doctor’s advice
+PCSK9,rs1042522,9,104053448,CC,Breast Cancer,Medium,Affects folate metabolism,34,Consult specialist,Follow doctor’s advice
+FTO,rs1801133,13,131309273,AG,Heart Disease,High,Alters immune system function,47,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+LPL,rs2395185,22,138792727,GG,Neural Tube Defects,Low,Increases risk of cancer,55,Consult specialist,Follow doctor’s advice
+BRCA2,rs3833302,13,31569903,CC,Heart Disease,High,Affects folate metabolism,76,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+LDLR,rs328,11,22253421,CT,Type 2 Diabetes,Low,Affects folate metabolism,34,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+LDLR,rs2395185,9,48288251,GG,Breast Cancer,Low,Affects fat storage and appetite,76,Consult specialist,Follow doctor’s advice
+PCSK9,rs9939609,8,57016707,TT,Heart Disease,Medium,Affects fat storage and appetite,72,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+FTO,rs3833302,6,24129757,GG,Stroke,High,Impacts DNA repair mechanism,48,Consult specialist,Follow doctor’s advice
+BRCA1,rs1042522,22,107023320,AA,Neural Tube Defects,Medium,Affects lipid metabolism,62,Consult specialist,Follow doctor’s advice
+SORT1,rs9939609,22,145125362,AA,Stroke,Medium,Affects lipid metabolism,59,Consult specialist,Follow doctor’s advice
+IL6,rs328,15,23895829,CC,Neural Tube Defects,High,Decreases cholesterol levels,64,Consult specialist,Follow doctor’s advice
+TP53,rs328,20,146202992,AA,Breast Cancer,Low,Increases risk of cancer,49,Consult specialist,Follow doctor’s advice
+TP53,rs2395185,2,101532560,CT,Cancer,Low,Affects folate metabolism,42,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+APOE,rs328,15,120992065,AA,Type 2 Diabetes,High,Increases cholesterol levels,73,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+MC4R,rs17782313,12,60435864,AG,Stroke,High,Affects folate metabolism,55,Consult specialist,Follow doctor’s advice
+IL6,rs799917,22,92575892,TT,Cancer,High,Increases risk of cancer,50,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+IL6,rs3833302,3,57465528,CT,Heart Disease,High,Impacts DNA repair mechanism,38,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+HLA-DRB1,rs799917,17,18206723,GG,Heart Disease,Medium,Alters immune system function,53,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+HLA-DRB1,rs9939609,2,70760844,GG,Type 2 Diabetes,Low,Affects lipid metabolism,50,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+TP53,rs799917,3,149886112,TT,Breast Cancer,High,Impacts DNA repair mechanism,77,Consult specialist,Follow doctor’s advice
+PCSK9,rs17782313,13,81294821,AG,Obesity,High,Impacts DNA repair mechanism,39,Consult specialist,Follow doctor’s advice
+IL6,rs328,21,71690421,GG,Obesity,High,Increases cholesterol levels,77,Consult specialist,Follow doctor’s advice
+MC4R,rs429358,9,116711053,AA,Stroke,High,Affects folate metabolism,69,Consult specialist,Follow doctor’s advice
+SORT1,rs1042522,22,126186021,GG,Heart Disease,Medium,Increases inflammation,51,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+HLA-DRB1,rs1801133,23,70862182,CC,Cancer,High,Affects fat storage and appetite,56,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+BRCA1,rs5930,16,41185541,CT,Obesity,Low,Increases inflammation,34,Consult specialist,Follow doctor’s advice
+IL6,rs3833302,18,106854994,CC,Breast Cancer,Medium,Affects folate metabolism,37,Consult specialist,Follow doctor’s advice
+APOE,rs1801133,20,41284108,TT,Neural Tube Defects,Medium,Affects folate metabolism,51,Consult specialist,Follow doctor’s advice
+BRCA2,rs3833302,14,16126550,AG,Stroke,Medium,Affects fat storage and appetite,33,Consult specialist,Follow doctor’s advice
+SORT1,rs3833302,5,21954348,CT,Breast Cancer,Low,Affects fat storage and appetite,42,Consult specialist,Follow doctor’s advice
+TP53,rs1801133,16,30299909,TT,Obesity,Low,Increases risk of cancer,73,Consult specialist,Follow doctor’s advice
+TP53,rs799917,10,101100585,AG,Heart Disease,Medium,Affects fat storage and appetite,34,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+FTO,rs1801133,6,100871664,GG,Multiple Sclerosis,High,Decreases cholesterol levels,65,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+FTO,rs1800795,16,46466309,AG,Obesity,Low,Affects lipid metabolism,34,Consult specialist,Follow doctor’s advice
+LDLR,rs5930,14,17986570,CC,Stroke,Medium,Increases cholesterol levels,34,Consult specialist,Follow doctor’s advice
+FTO,rs17782313,1,115702633,GG,Alzheimer's Disease,Low,Alters immune system function,36,Consult specialist,Follow doctor’s advice
+TP53,rs799917,14,35228025,CC,Alzheimer's Disease,Low,Increases inflammation,51,Consult specialist,Follow doctor’s advice
+APOE,rs9939609,4,144254803,CC,Neural Tube Defects,Medium,Increases cholesterol levels,31,Consult specialist,Follow doctor’s advice
+MTHFR,rs144848,9,101464828,GG,Neural Tube Defects,Low,Decreases cholesterol levels,31,Consult specialist,Follow doctor’s advice
+BRCA2,rs1800795,23,109939522,TT,Stroke,High,Alters immune system function,69,Consult specialist,Follow doctor’s advice
+BRCA2,rs328,9,119791883,AA,Stroke,High,Increases inflammation,55,Consult specialist,Follow doctor’s advice
+FTO,rs144848,12,57493168,CC,Multiple Sclerosis,High,Decreases cholesterol levels,77,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+MTHFR,rs1801133,5,19081408,CT,Heart Disease,High,Affects fat storage and appetite,40,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+FTO,rs328,10,23522200,CT,Type 2 Diabetes,High,Affects lipid metabolism,62,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+IL6,rs1801133,8,106579236,TT,Type 2 Diabetes,High,Increases inflammation,77,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+APOE,rs3833302,7,32776031,GG,Alzheimer's Disease,Medium,Increases cholesterol levels,67,Consult specialist,Follow doctor’s advice
+LPL,rs2395185,21,74455261,TT,Neural Tube Defects,Low,Affects folate metabolism,64,Consult specialist,Follow doctor’s advice
+BRCA2,rs144848,9,107317984,TT,Cancer,Low,Increases inflammation,76,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+IL6,rs144848,13,10385082,AA,Cancer,Medium,Impacts DNA repair mechanism,56,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+TP53,rs1801133,2,48714442,CC,Alzheimer's Disease,Low,Increases risk of cancer,37,Consult specialist,Follow doctor’s advice
+FTO,rs1801133,21,50989990,GG,Heart Disease,High,Affects lipid metabolism,74,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+MTHFR,rs17782313,20,83468571,CT,Alzheimer's Disease,High,Impacts DNA repair mechanism,70,Consult specialist,Follow doctor’s advice
+TP53,rs1801133,23,54814741,GG,Alzheimer's Disease,Low,Affects lipid metabolism,34,Consult specialist,Follow doctor’s advice
+FTO,rs17782313,23,81968097,CT,Multiple Sclerosis,Medium,Alters immune system function,39,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+TP53,rs1800795,15,67469069,CT,Stroke,Medium,Impacts DNA repair mechanism,70,Consult specialist,Follow doctor’s advice
+SORT1,rs2395185,8,69288065,CC,Cancer,Low,Affects folate metabolism,36,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+TP53,rs1042522,21,28159874,TT,Stroke,Low,Alters immune system function,66,Consult specialist,Follow doctor’s advice
+PCSK9,rs1042522,7,65507286,GG,Stroke,High,Affects folate metabolism,74,Consult specialist,Follow doctor’s advice
+IL6,rs799917,9,117700268,CT,Cancer,High,Increases cholesterol levels,61,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+MTHFR,rs1801133,22,124854296,TT,Multiple Sclerosis,Low,Decreases cholesterol levels,64,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+BRCA1,rs1801133,4,51578228,CC,Heart Disease,Medium,Affects lipid metabolism,72,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+IL6,rs429358,14,100801673,AG,Breast Cancer,High,Alters immune system function,78,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs5930,22,103861672,AG,Multiple Sclerosis,High,Impacts DNA repair mechanism,46,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+MC4R,rs1801133,17,100480902,AG,Stroke,Low,Increases inflammation,38,Consult specialist,Follow doctor’s advice
+SORT1,rs2395185,17,133870626,GG,Heart Disease,Medium,Increases cholesterol levels,40,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+PCSK9,rs562556,23,92963580,GG,Stroke,Medium,Increases risk of cancer,41,Consult specialist,Follow doctor’s advice
+IL6,rs1801133,9,44325503,CT,Type 2 Diabetes,Low,Affects lipid metabolism,37,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+HLA-DRB1,rs144848,19,47865505,TT,Cancer,Medium,Increases risk of cancer,38,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+MC4R,rs799917,23,99809926,CT,Heart Disease,Medium,Alters immune system function,73,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+SORT1,rs5930,9,52455117,GG,Multiple Sclerosis,High,Increases risk of cancer,57,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+LDLR,rs1801133,9,37599245,TT,Breast Cancer,High,Impacts DNA repair mechanism,51,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs1801133,15,50373958,GG,Cancer,High,Alters immune system function,36,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+IL6,rs144848,19,33477192,AA,Heart Disease,Low,Increases inflammation,59,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+TP53,rs1042522,22,100077040,AA,Obesity,High,Alters immune system function,60,Consult specialist,Follow doctor’s advice
+BRCA2,rs144848,14,115346614,AG,Multiple Sclerosis,Low,Alters immune system function,30,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+LDLR,rs1801133,13,82068405,CC,Breast Cancer,High,Affects fat storage and appetite,47,Consult specialist,Follow doctor’s advice
+MC4R,rs17782313,10,63173031,TT,Heart Disease,Low,Alters immune system function,65,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+PCSK9,rs1801133,18,37562051,TT,Obesity,High,Affects lipid metabolism,61,Consult specialist,Follow doctor’s advice
+TP53,rs429358,15,74242624,AG,Multiple Sclerosis,Low,Increases cholesterol levels,34,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+LPL,rs5930,5,112111838,AG,Cancer,High,Increases risk of cancer,79,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+LPL,rs328,14,138544611,AA,Multiple Sclerosis,Low,Impacts DNA repair mechanism,60,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+APOE,rs3833302,11,110507891,TT,Breast Cancer,Medium,Impacts DNA repair mechanism,76,Consult specialist,Follow doctor’s advice
+BRCA2,rs9939609,13,70546406,GG,Cancer,High,Affects fat storage and appetite,66,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+SORT1,rs799917,14,130212793,TT,Obesity,Low,Affects lipid metabolism,37,Consult specialist,Follow doctor’s advice
+APOE,rs9939609,10,21580145,AA,Obesity,Low,Affects folate metabolism,45,Consult specialist,Follow doctor’s advice
+BRCA2,rs5930,23,62216345,TT,Obesity,High,Alters immune system function,46,Consult specialist,Follow doctor’s advice
+PCSK9,rs1042522,20,10995655,GG,Stroke,High,Increases inflammation,37,Consult specialist,Follow doctor’s advice
+LDLR,rs3833302,8,66339288,CC,Multiple Sclerosis,High,Affects lipid metabolism,38,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+APOE,rs328,8,61734156,TT,Multiple Sclerosis,Medium,Affects folate metabolism,72,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+IL6,rs1800795,11,29920123,AG,Type 2 Diabetes,Medium,Affects folate metabolism,70,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+LDLR,rs429358,20,95208991,CT,Neural Tube Defects,Low,Alters immune system function,56,Consult specialist,Follow doctor’s advice
+IL6,rs1801133,11,48062354,AA,Heart Disease,High,Affects fat storage and appetite,40,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+BRCA1,rs17782313,10,92851566,TT,Heart Disease,Low,Alters immune system function,68,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+HLA-DRB1,rs9939609,21,76401668,CT,Heart Disease,Low,Decreases cholesterol levels,76,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+HLA-DRB1,rs1800795,9,53984534,CT,Neural Tube Defects,High,Increases risk of cancer,41,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs429358,8,82216465,AG,Cancer,High,Affects lipid metabolism,72,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+FTO,rs429358,10,92475814,AG,Multiple Sclerosis,High,Affects folate metabolism,55,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+BRCA1,rs328,15,51598710,GG,Stroke,High,Affects lipid metabolism,62,Consult specialist,Follow doctor’s advice
+BRCA1,rs328,7,103789098,CT,Heart Disease,Medium,Increases cholesterol levels,35,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+MC4R,rs17782313,11,18027903,CT,Type 2 Diabetes,Medium,Affects folate metabolism,39,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+APOE,rs5930,2,73139791,AG,Breast Cancer,Medium,Increases cholesterol levels,51,Consult specialist,Follow doctor’s advice
+BRCA2,rs429358,18,20554351,AG,Cancer,Low,Affects folate metabolism,55,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+SORT1,rs2395185,4,24460664,CT,Stroke,Medium,Increases risk of cancer,70,Consult specialist,Follow doctor’s advice
+BRCA1,rs799917,12,117631279,GG,Type 2 Diabetes,High,Increases inflammation,44,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+IL6,rs5930,19,89588491,TT,Breast Cancer,Medium,Increases risk of cancer,57,Consult specialist,Follow doctor’s advice
+FTO,rs799917,23,105089222,CT,Type 2 Diabetes,Medium,Increases risk of cancer,77,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+PCSK9,rs144848,12,30645994,CC,Heart Disease,Medium,Impacts DNA repair mechanism,45,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+TP53,rs562556,23,122298007,GG,Alzheimer's Disease,Low,Affects fat storage and appetite,46,Consult specialist,Follow doctor’s advice
+IL6,rs1042522,5,60389904,CT,Type 2 Diabetes,Medium,Increases inflammation,45,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+MTHFR,rs429358,6,35601689,AA,Alzheimer's Disease,High,Alters immune system function,52,Consult specialist,Follow doctor’s advice
+BRCA1,rs3833302,9,21156690,TT,Stroke,Medium,Affects folate metabolism,62,Consult specialist,Follow doctor’s advice
+BRCA1,rs1042522,1,132770128,AA,Type 2 Diabetes,High,Alters immune system function,54,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+FTO,rs3833302,20,102368615,GG,Multiple Sclerosis,Low,Alters immune system function,67,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+BRCA1,rs1800795,9,15897351,GG,Neural Tube Defects,High,Increases cholesterol levels,40,Consult specialist,Follow doctor’s advice
+IL6,rs1800795,7,35103275,CT,Neural Tube Defects,Medium,Increases cholesterol levels,69,Consult specialist,Follow doctor’s advice
+BRCA2,rs1800795,12,136245706,CT,Type 2 Diabetes,Medium,Decreases cholesterol levels,75,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+BRCA2,rs9939609,14,73856787,TT,Obesity,High,Impacts DNA repair mechanism,60,Consult specialist,Follow doctor’s advice
+LDLR,rs2395185,1,103304888,GG,Alzheimer's Disease,High,Increases inflammation,72,Consult specialist,Follow doctor’s advice
+BRCA2,rs144848,20,122990852,CT,Type 2 Diabetes,Low,Increases inflammation,67,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+FTO,rs1042522,13,76945703,TT,Cancer,Medium,Increases risk of cancer,38,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+IL6,rs1801133,20,133186352,CC,Stroke,Medium,Alters immune system function,70,Consult specialist,Follow doctor’s advice
+LPL,rs429358,1,22727486,AG,Breast Cancer,Low,Alters immune system function,51,Consult specialist,Follow doctor’s advice
+TP53,rs2395185,3,36280052,AG,Multiple Sclerosis,High,Affects folate metabolism,37,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+BRCA1,rs1042522,10,96278282,TT,Breast Cancer,High,Affects folate metabolism,52,Consult specialist,Follow doctor’s advice
+LDLR,rs17782313,2,17818116,CT,Stroke,Low,Affects folate metabolism,44,Consult specialist,Follow doctor’s advice
+MC4R,rs9939609,13,101744018,TT,Alzheimer's Disease,High,Decreases cholesterol levels,69,Consult specialist,Follow doctor’s advice
+LDLR,rs799917,15,26397820,AA,Stroke,High,Affects lipid metabolism,75,Consult specialist,Follow doctor’s advice
+MC4R,rs2395185,6,65473283,AA,Alzheimer's Disease,High,Affects fat storage and appetite,30,Consult specialist,Follow doctor’s advice
+APOE,rs562556,12,71563188,GG,Multiple Sclerosis,High,Impacts DNA repair mechanism,73,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+LPL,rs2395185,21,47191315,AA,Heart Disease,Medium,Impacts DNA repair mechanism,64,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+BRCA1,rs429358,10,148389497,AG,Heart Disease,Low,Decreases cholesterol levels,49,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+MC4R,rs5930,17,116215435,CT,Alzheimer's Disease,Low,Alters immune system function,35,Consult specialist,Follow doctor’s advice
+MTHFR,rs3833302,4,117378768,AG,Alzheimer's Disease,Medium,Alters immune system function,75,Consult specialist,Follow doctor’s advice
+PCSK9,rs2395185,7,21830553,CT,Type 2 Diabetes,Low,Increases cholesterol levels,35,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+IL6,rs328,1,86952994,AA,Multiple Sclerosis,Low,Alters immune system function,75,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+BRCA2,rs17782313,6,147617622,GG,Alzheimer's Disease,Medium,Decreases cholesterol levels,65,Consult specialist,Follow doctor’s advice
+IL6,rs1800795,8,60848776,AA,Cancer,High,Increases risk of cancer,38,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+PCSK9,rs17782313,17,124975785,GG,Multiple Sclerosis,Medium,Increases inflammation,38,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+FTO,rs1800795,17,87307429,CT,Breast Cancer,High,Impacts DNA repair mechanism,46,Consult specialist,Follow doctor’s advice
+LDLR,rs1042522,19,109030813,GG,Cancer,Medium,Alters immune system function,49,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+MTHFR,rs144848,15,117868078,AA,Multiple Sclerosis,High,Impacts DNA repair mechanism,51,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+APOE,rs562556,16,117974083,TT,Obesity,Medium,Increases risk of cancer,65,Consult specialist,Follow doctor’s advice
+BRCA2,rs429358,5,55428892,CC,Breast Cancer,High,Affects folate metabolism,58,Consult specialist,Follow doctor’s advice
+PCSK9,rs3833302,16,21218328,GG,Heart Disease,High,Affects lipid metabolism,48,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+SORT1,rs1801133,14,129050020,TT,Neural Tube Defects,Low,Affects folate metabolism,56,Consult specialist,Follow doctor’s advice
+TP53,rs3833302,6,127051872,GG,Alzheimer's Disease,High,Alters immune system function,39,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs144848,8,23822630,TT,Breast Cancer,High,Increases risk of cancer,37,Consult specialist,Follow doctor’s advice
+LDLR,rs328,8,136114344,CC,Neural Tube Defects,Medium,Affects folate metabolism,51,Consult specialist,Follow doctor’s advice
+IL6,rs2395185,14,117208233,AG,Alzheimer's Disease,Low,Affects lipid metabolism,39,Consult specialist,Follow doctor’s advice
+LPL,rs429358,1,85664862,AA,Alzheimer's Disease,Low,Impacts DNA repair mechanism,61,Consult specialist,Follow doctor’s advice
+PCSK9,rs2395185,17,125781742,AG,Breast Cancer,High,Increases risk of cancer,79,Consult specialist,Follow doctor’s advice
+IL6,rs5930,13,33935182,AA,Multiple Sclerosis,Low,Increases risk of cancer,78,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+HLA-DRB1,rs1042522,9,75690091,CC,Stroke,High,Alters immune system function,53,Consult specialist,Follow doctor’s advice
+BRCA1,rs2395185,19,57100768,CC,Cancer,High,Increases risk of cancer,78,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+MC4R,rs429358,22,28068709,AG,Obesity,Low,Decreases cholesterol levels,35,Consult specialist,Follow doctor’s advice
+TP53,rs429358,15,73254621,AA,Cancer,Low,Impacts DNA repair mechanism,41,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+TP53,rs328,3,70307087,CT,Breast Cancer,Medium,Affects lipid metabolism,76,Consult specialist,Follow doctor’s advice
+FTO,rs1801133,15,103702985,GG,Alzheimer's Disease,Low,Increases cholesterol levels,70,Consult specialist,Follow doctor’s advice
+PCSK9,rs3833302,1,66239725,GG,Heart Disease,Medium,Increases inflammation,42,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+HLA-DRB1,rs562556,17,24264377,CT,Heart Disease,Medium,Affects fat storage and appetite,78,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+SORT1,rs328,9,88450523,CT,Type 2 Diabetes,High,Alters immune system function,47,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+MTHFR,rs429358,7,87299626,CC,Breast Cancer,High,Decreases cholesterol levels,80,Consult specialist,Follow doctor’s advice
+IL6,rs562556,21,45496038,AA,Heart Disease,Medium,Increases risk of cancer,68,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+BRCA1,rs328,5,23353825,CC,Obesity,Medium,Alters immune system function,51,Consult specialist,Follow doctor’s advice
+BRCA1,rs1800795,7,33908635,GG,Alzheimer's Disease,High,Increases inflammation,56,Consult specialist,Follow doctor’s advice
+IL6,rs5930,19,104049815,TT,Cancer,Medium,Increases inflammation,69,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+LPL,rs429358,13,61211430,GG,Alzheimer's Disease,High,Decreases cholesterol levels,61,Consult specialist,Follow doctor’s advice
+FTO,rs1042522,19,10896182,CT,Breast Cancer,Medium,Decreases cholesterol levels,64,Consult specialist,Follow doctor’s advice
+TP53,rs3833302,12,77036969,CC,Neural Tube Defects,Low,Increases inflammation,73,Consult specialist,Follow doctor’s advice
+PCSK9,rs1042522,13,105615651,TT,Multiple Sclerosis,Medium,Impacts DNA repair mechanism,44,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+BRCA1,rs144848,1,83048022,AG,Heart Disease,Low,Decreases cholesterol levels,67,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+BRCA1,rs5930,14,72469876,AA,Cancer,Medium,Alters immune system function,50,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+FTO,rs799917,21,43272457,CT,Stroke,High,Impacts DNA repair mechanism,53,Consult specialist,Follow doctor’s advice
+BRCA2,rs9939609,19,132410901,TT,Cancer,High,Increases cholesterol levels,49,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+SORT1,rs328,1,70695548,AG,Heart Disease,Medium,Alters immune system function,38,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+BRCA1,rs5930,23,118181059,AG,Heart Disease,High,Affects folate metabolism,59,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+SORT1,rs9939609,21,113703477,CT,Type 2 Diabetes,High,Alters immune system function,47,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+IL6,rs1042522,1,90918306,AA,Neural Tube Defects,Low,Increases inflammation,48,Consult specialist,Follow doctor’s advice
+BRCA1,rs429358,2,58844718,CC,Multiple Sclerosis,Low,Decreases cholesterol levels,67,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+PCSK9,rs144848,7,115089715,AG,Obesity,High,Increases inflammation,74,Consult specialist,Follow doctor’s advice
+LPL,rs2395185,14,115841177,GG,Alzheimer's Disease,Medium,Increases inflammation,53,Consult specialist,Follow doctor’s advice
+PCSK9,rs1800795,19,109857747,GG,Neural Tube Defects,Low,Affects lipid metabolism,69,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs144848,19,120093839,AA,Heart Disease,Low,Affects fat storage and appetite,69,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+IL6,rs1800795,8,78126738,GG,Type 2 Diabetes,High,Increases inflammation,53,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+BRCA1,rs562556,9,50113540,TT,Heart Disease,High,Increases risk of cancer,52,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+APOE,rs17782313,2,54292465,GG,Cancer,Low,Alters immune system function,52,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+TP53,rs17782313,6,40826381,TT,Neural Tube Defects,High,Affects folate metabolism,43,Consult specialist,Follow doctor’s advice
+SORT1,rs328,18,18837800,AA,Breast Cancer,Low,Affects fat storage and appetite,75,Consult specialist,Follow doctor’s advice
+SORT1,rs2395185,13,100904004,TT,Obesity,Low,Increases risk of cancer,30,Consult specialist,Follow doctor’s advice
+BRCA1,rs328,18,97156860,GG,Type 2 Diabetes,High,Affects lipid metabolism,49,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+HLA-DRB1,rs429358,16,89426914,TT,Stroke,Medium,Increases risk of cancer,52,Consult specialist,Follow doctor’s advice
+SORT1,rs1042522,18,61075747,GG,Heart Disease,Low,Decreases cholesterol levels,73,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+PCSK9,rs1801133,5,90105621,AG,Obesity,Low,Increases risk of cancer,77,Consult specialist,Follow doctor’s advice
+LDLR,rs144848,23,16182651,AG,Type 2 Diabetes,Medium,Affects lipid metabolism,48,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+IL6,rs5930,17,145884517,AG,Heart Disease,Low,Increases cholesterol levels,45,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+MC4R,rs9939609,22,147585219,AG,Heart Disease,High,Increases inflammation,79,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+LDLR,rs562556,19,135397958,AG,Neural Tube Defects,High,Affects folate metabolism,54,Consult specialist,Follow doctor’s advice
+SORT1,rs144848,21,17281032,AA,Multiple Sclerosis,High,Affects lipid metabolism,63,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+IL6,rs1042522,22,54923278,CT,Type 2 Diabetes,Medium,Affects folate metabolism,50,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+LPL,rs144848,1,70356887,GG,Type 2 Diabetes,Medium,Decreases cholesterol levels,79,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+HLA-DRB1,rs5930,8,95216329,GG,Heart Disease,Low,Alters immune system function,44,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+BRCA1,rs17782313,14,144246417,AG,Neural Tube Defects,Medium,Increases risk of cancer,58,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs9939609,20,47879160,CT,Obesity,Medium,Alters immune system function,77,Consult specialist,Follow doctor’s advice
+SORT1,rs3833302,17,68036671,TT,Stroke,Low,Affects folate metabolism,41,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs328,18,31622611,AG,Multiple Sclerosis,High,Decreases cholesterol levels,40,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+TP53,rs562556,11,66050113,GG,Neural Tube Defects,Low,Increases inflammation,50,Consult specialist,Follow doctor’s advice
+BRCA2,rs562556,7,49403109,AA,Breast Cancer,Low,Decreases cholesterol levels,32,Consult specialist,Follow doctor’s advice
+TP53,rs17782313,14,52931008,AA,Type 2 Diabetes,Low,Increases inflammation,58,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+HLA-DRB1,rs1042522,11,95987477,TT,Heart Disease,Medium,Decreases cholesterol levels,41,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+BRCA2,rs2395185,4,48445299,AG,Heart Disease,Low,Increases risk of cancer,57,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+MC4R,rs1800795,9,91842127,AA,Multiple Sclerosis,Low,Increases cholesterol levels,45,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+FTO,rs562556,11,79591000,GG,Heart Disease,Medium,Affects fat storage and appetite,62,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+BRCA2,rs1042522,16,140269222,AA,Heart Disease,High,Affects folate metabolism,53,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+LPL,rs9939609,17,16467056,AG,Heart Disease,Low,Affects lipid metabolism,53,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+BRCA2,rs562556,9,33026197,GG,Type 2 Diabetes,High,Affects folate metabolism,78,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+FTO,rs562556,13,56311001,AG,Obesity,High,Increases risk of cancer,59,Consult specialist,Follow doctor’s advice
+LDLR,rs5930,5,145442640,CT,Stroke,Medium,Increases inflammation,69,Consult specialist,Follow doctor’s advice
+PCSK9,rs17782313,4,63004038,CT,Alzheimer's Disease,Low,Affects folate metabolism,73,Consult specialist,Follow doctor’s advice
+MTHFR,rs328,1,30408084,CT,Breast Cancer,Medium,Affects folate metabolism,72,Consult specialist,Follow doctor’s advice
+MC4R,rs17782313,11,137704097,GG,Heart Disease,High,Affects fat storage and appetite,40,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+SORT1,rs5930,20,40196822,AA,Cancer,Low,Increases cholesterol levels,33,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+TP53,rs2395185,16,25345922,CT,Cancer,Low,Alters immune system function,46,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+SORT1,rs1042522,12,79540594,AA,Alzheimer's Disease,Medium,Impacts DNA repair mechanism,33,Consult specialist,Follow doctor’s advice
+SORT1,rs144848,21,131955500,AA,Alzheimer's Disease,High,Affects lipid metabolism,52,Consult specialist,Follow doctor’s advice
+LPL,rs9939609,7,13580431,AA,Stroke,High,Increases inflammation,64,Consult specialist,Follow doctor’s advice
+APOE,rs328,21,140519529,CT,Type 2 Diabetes,Low,Affects fat storage and appetite,37,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+SORT1,rs799917,1,94618992,CT,Neural Tube Defects,Low,Decreases cholesterol levels,62,Consult specialist,Follow doctor’s advice
+TP53,rs3833302,4,95545700,AG,Stroke,Low,Increases risk of cancer,43,Consult specialist,Follow doctor’s advice
+APOE,rs429358,5,146973383,CT,Alzheimer's Disease,Low,Alters immune system function,49,Consult specialist,Follow doctor’s advice
+BRCA2,rs328,12,119471046,AA,Alzheimer's Disease,High,Increases inflammation,43,Consult specialist,Follow doctor’s advice
+LDLR,rs17782313,9,133054082,AA,Cancer,Medium,Increases inflammation,75,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+LDLR,rs799917,19,28560319,TT,Heart Disease,High,Alters immune system function,58,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+MTHFR,rs144848,21,21467119,AG,Breast Cancer,High,Affects fat storage and appetite,54,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs2395185,9,55985137,GG,Heart Disease,High,Impacts DNA repair mechanism,68,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+PCSK9,rs2395185,10,60675575,GG,Type 2 Diabetes,High,Increases inflammation,49,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+BRCA1,rs144848,22,121841653,AG,Neural Tube Defects,Medium,Increases inflammation,73,Consult specialist,Follow doctor’s advice
+BRCA2,rs2395185,7,79247542,AA,Type 2 Diabetes,Low,Increases cholesterol levels,76,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+LPL,rs1800795,23,81133693,AA,Stroke,Low,Decreases cholesterol levels,44,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs1042522,1,125482335,CT,Multiple Sclerosis,Medium,Increases inflammation,64,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+IL6,rs9939609,20,123812612,GG,Cancer,Low,Increases risk of cancer,76,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+PCSK9,rs144848,13,43906239,AA,Stroke,Medium,Increases cholesterol levels,74,Consult specialist,Follow doctor’s advice
+IL6,rs3833302,12,143785128,GG,Obesity,Medium,Increases inflammation,64,Consult specialist,Follow doctor’s advice
+LDLR,rs562556,5,39953785,AA,Neural Tube Defects,High,Increases inflammation,77,Consult specialist,Follow doctor’s advice
+SORT1,rs5930,12,63722662,AA,Breast Cancer,Medium,Affects lipid metabolism,77,Consult specialist,Follow doctor’s advice
+BRCA2,rs2395185,23,110961775,AG,Stroke,Medium,Decreases cholesterol levels,52,Consult specialist,Follow doctor’s advice
+MC4R,rs5930,16,121754292,AG,Neural Tube Defects,Medium,Affects fat storage and appetite,35,Consult specialist,Follow doctor’s advice
+TP53,rs17782313,12,87693682,AG,Multiple Sclerosis,Medium,Alters immune system function,51,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+TP53,rs9939609,7,67146009,CT,Neural Tube Defects,Low,Alters immune system function,61,Consult specialist,Follow doctor’s advice
+FTO,rs1800795,2,12339593,TT,Neural Tube Defects,Low,Increases cholesterol levels,30,Consult specialist,Follow doctor’s advice
+SORT1,rs5930,2,125215619,CT,Breast Cancer,High,Decreases cholesterol levels,66,Consult specialist,Follow doctor’s advice
+FTO,rs3833302,15,125671516,GG,Obesity,Low,Affects fat storage and appetite,34,Consult specialist,Follow doctor’s advice
+BRCA1,rs429358,21,97680435,CT,Type 2 Diabetes,High,Impacts DNA repair mechanism,58,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+IL6,rs799917,13,31706309,CT,Alzheimer's Disease,Medium,Affects fat storage and appetite,74,Consult specialist,Follow doctor’s advice
+BRCA1,rs2395185,7,35145775,TT,Multiple Sclerosis,High,Impacts DNA repair mechanism,48,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+HLA-DRB1,rs5930,1,112132322,TT,Heart Disease,Low,Increases inflammation,43,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+LDLR,rs17782313,18,111416258,TT,Heart Disease,Medium,Affects fat storage and appetite,40,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+HLA-DRB1,rs144848,23,73814439,TT,Multiple Sclerosis,Low,Affects folate metabolism,78,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+TP53,rs144848,3,56155913,CT,Heart Disease,High,Increases inflammation,74,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+SORT1,rs562556,16,129463037,CT,Type 2 Diabetes,Low,Decreases cholesterol levels,37,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+IL6,rs1800795,4,113379478,CT,Multiple Sclerosis,High,Alters immune system function,72,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+LDLR,rs799917,18,141604487,AG,Multiple Sclerosis,High,Increases cholesterol levels,30,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+MC4R,rs9939609,23,139604403,AA,Type 2 Diabetes,Medium,Increases cholesterol levels,59,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+LDLR,rs1801133,10,146080753,TT,Heart Disease,Low,Affects fat storage and appetite,53,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+BRCA2,rs144848,1,81452593,AA,Breast Cancer,Low,Increases cholesterol levels,47,Consult specialist,Follow doctor’s advice
+BRCA2,rs3833302,9,76826697,CC,Type 2 Diabetes,High,Increases inflammation,57,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+FTO,rs2395185,21,68705301,CT,Cancer,High,Increases inflammation,66,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+MC4R,rs9939609,12,20756412,TT,Multiple Sclerosis,High,Affects fat storage and appetite,71,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+MC4R,rs328,22,117912332,AA,Obesity,Low,Impacts DNA repair mechanism,53,Consult specialist,Follow doctor’s advice
+FTO,rs562556,2,89618191,AG,Heart Disease,High,Impacts DNA repair mechanism,72,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+BRCA2,rs5930,17,11719100,CC,Stroke,Low,Alters immune system function,74,Consult specialist,Follow doctor’s advice
+APOE,rs5930,1,121851287,AA,Cancer,High,Affects fat storage and appetite,64,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+LDLR,rs9939609,11,99248071,AA,Cancer,Low,Increases inflammation,69,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+PCSK9,rs9939609,6,48419137,GG,Alzheimer's Disease,Low,Alters immune system function,77,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs562556,22,66221502,AA,Stroke,Low,Affects lipid metabolism,78,Consult specialist,Follow doctor’s advice
+IL6,rs1800795,18,22859564,TT,Heart Disease,Medium,Decreases cholesterol levels,35,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+SORT1,rs2395185,9,64629936,AG,Obesity,Medium,Increases cholesterol levels,70,Consult specialist,Follow doctor’s advice
+BRCA1,rs1800795,12,147727376,AG,Stroke,High,Increases inflammation,47,Consult specialist,Follow doctor’s advice
+IL6,rs5930,12,110758617,CT,Obesity,Medium,Decreases cholesterol levels,57,Consult specialist,Follow doctor’s advice
+APOE,rs1801133,1,60394389,AA,Stroke,Medium,Affects folate metabolism,51,Consult specialist,Follow doctor’s advice
+MC4R,rs144848,19,146733560,CC,Stroke,Medium,Alters immune system function,51,Consult specialist,Follow doctor’s advice
+BRCA1,rs328,11,111558278,AA,Heart Disease,High,Impacts DNA repair mechanism,79,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+MC4R,rs328,15,94895664,AG,Obesity,High,Decreases cholesterol levels,55,Consult specialist,Follow doctor’s advice
+TP53,rs3833302,23,120562309,TT,Cancer,High,Impacts DNA repair mechanism,58,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+IL6,rs5930,22,123968695,GG,Type 2 Diabetes,Medium,Decreases cholesterol levels,78,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+MTHFR,rs9939609,3,28152464,TT,Cancer,Medium,Impacts DNA repair mechanism,63,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+PCSK9,rs1801133,16,52994298,TT,Heart Disease,Low,Increases inflammation,57,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+BRCA1,rs562556,7,91994989,GG,Cancer,Medium,Alters immune system function,49,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+HLA-DRB1,rs17782313,9,12192422,CC,Heart Disease,Medium,Impacts DNA repair mechanism,59,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+HLA-DRB1,rs562556,9,115753152,AA,Cancer,Low,Increases cholesterol levels,37,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+IL6,rs562556,2,116413267,AG,Type 2 Diabetes,High,Affects lipid metabolism,33,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+TP53,rs328,10,130499501,CT,Alzheimer's Disease,Low,Affects lipid metabolism,35,Consult specialist,Follow doctor’s advice
+PCSK9,rs799917,21,88875313,CC,Obesity,Low,Decreases cholesterol levels,43,Consult specialist,Follow doctor’s advice
+APOE,rs799917,11,146210831,GG,Alzheimer's Disease,High,Alters immune system function,33,Consult specialist,Follow doctor’s advice
+APOE,rs5930,13,115430826,GG,Alzheimer's Disease,High,Affects lipid metabolism,38,Consult specialist,Follow doctor’s advice
+BRCA1,rs9939609,11,101398806,AG,Neural Tube Defects,High,Alters immune system function,44,Consult specialist,Follow doctor’s advice
+BRCA1,rs9939609,12,141236599,GG,Heart Disease,Low,Increases risk of cancer,66,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+FTO,rs144848,18,122677496,GG,Obesity,Medium,Affects folate metabolism,67,Consult specialist,Follow doctor’s advice
+LPL,rs9939609,13,13709802,TT,Multiple Sclerosis,Low,Decreases cholesterol levels,60,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+SORT1,rs562556,19,32413408,AA,Alzheimer's Disease,High,Decreases cholesterol levels,68,Consult specialist,Follow doctor’s advice
+BRCA1,rs429358,15,15033238,GG,Stroke,Medium,Affects lipid metabolism,38,Consult specialist,Follow doctor’s advice
+IL6,rs562556,16,125528444,CC,Neural Tube Defects,Medium,Affects folate metabolism,68,Consult specialist,Follow doctor’s advice
+PCSK9,rs562556,12,81793271,CT,Type 2 Diabetes,High,Affects fat storage and appetite,39,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+BRCA2,rs3833302,11,33384205,GG,Stroke,Low,Impacts DNA repair mechanism,30,Consult specialist,Follow doctor’s advice
+FTO,rs1042522,11,83012501,CC,Heart Disease,High,Increases inflammation,31,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+LDLR,rs562556,7,94391615,AG,Cancer,Medium,Affects lipid metabolism,67,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+APOE,rs17782313,14,131482696,AG,Obesity,High,Decreases cholesterol levels,56,Consult specialist,Follow doctor’s advice
+APOE,rs562556,16,10992848,AG,Obesity,High,Increases risk of cancer,51,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs144848,6,43570125,GG,Type 2 Diabetes,Low,Increases cholesterol levels,60,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+MTHFR,rs144848,12,70158404,CT,Breast Cancer,Medium,Alters immune system function,47,Consult specialist,Follow doctor’s advice
+FTO,rs17782313,15,137934652,CT,Cancer,High,Affects lipid metabolism,59,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+LDLR,rs328,21,22010123,CC,Heart Disease,High,Increases cholesterol levels,63,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+IL6,rs328,4,70663413,AA,Cancer,Low,Affects fat storage and appetite,65,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+HLA-DRB1,rs328,14,44044315,AG,Cancer,Medium,Increases risk of cancer,59,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+TP53,rs144848,14,140411518,CC,Cancer,Medium,Increases cholesterol levels,40,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+BRCA2,rs9939609,9,143212232,GG,Cancer,High,Affects lipid metabolism,75,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+APOE,rs2395185,3,43816557,CC,Multiple Sclerosis,Medium,Increases inflammation,54,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+TP53,rs328,5,117824454,AG,Neural Tube Defects,Low,Affects folate metabolism,50,Consult specialist,Follow doctor’s advice
+SORT1,rs1800795,13,95892180,TT,Cancer,Low,Affects lipid metabolism,57,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+BRCA2,rs5930,7,128838155,GG,Stroke,Low,Alters immune system function,34,Consult specialist,Follow doctor’s advice
+TP53,rs9939609,6,25082880,CC,Cancer,Low,Decreases cholesterol levels,44,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+APOE,rs562556,11,97367406,CT,Heart Disease,High,Increases risk of cancer,57,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+FTO,rs5930,14,36610167,AA,Breast Cancer,Medium,Increases risk of cancer,37,Consult specialist,Follow doctor’s advice
+MC4R,rs429358,2,113481422,GG,Obesity,Low,Affects lipid metabolism,33,Consult specialist,Follow doctor’s advice
+IL6,rs2395185,10,147693321,CC,Heart Disease,Medium,Increases risk of cancer,79,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+SORT1,rs429358,17,45628788,CC,Multiple Sclerosis,High,Decreases cholesterol levels,40,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+SORT1,rs5930,21,33098067,AA,Alzheimer's Disease,Low,Increases cholesterol levels,55,Consult specialist,Follow doctor’s advice
+LDLR,rs17782313,19,63350742,AA,Alzheimer's Disease,Low,Increases risk of cancer,66,Consult specialist,Follow doctor’s advice
+IL6,rs17782313,3,72583088,GG,Multiple Sclerosis,Medium,Affects folate metabolism,66,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+FTO,rs1800795,20,48510605,AA,Heart Disease,Medium,Increases cholesterol levels,74,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+APOE,rs429358,15,47013573,AA,Heart Disease,High,Increases inflammation,61,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+PCSK9,rs1800795,10,50519043,AA,Obesity,Medium,Increases risk of cancer,39,Consult specialist,Follow doctor’s advice
+MTHFR,rs429358,2,98042811,CC,Stroke,High,Affects folate metabolism,40,Consult specialist,Follow doctor’s advice
+PCSK9,rs5930,8,110707302,AG,Cancer,High,Alters immune system function,80,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+TP53,rs328,17,71625047,CT,Neural Tube Defects,Low,Impacts DNA repair mechanism,73,Consult specialist,Follow doctor’s advice
+APOE,rs5930,14,51041009,TT,Multiple Sclerosis,High,Decreases cholesterol levels,72,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+LPL,rs562556,7,78536946,CT,Cancer,High,Impacts DNA repair mechanism,60,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+HLA-DRB1,rs3833302,7,50166213,CT,Multiple Sclerosis,High,Increases risk of cancer,46,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+LDLR,rs3833302,10,41001402,AG,Alzheimer's Disease,Low,Affects folate metabolism,72,Consult specialist,Follow doctor’s advice
+LPL,rs1800795,11,114574170,AA,Cancer,Medium,Decreases cholesterol levels,57,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+BRCA1,rs328,18,30251028,CT,Obesity,Medium,Increases inflammation,53,Consult specialist,Follow doctor’s advice
+LDLR,rs1042522,22,142319486,TT,Neural Tube Defects,High,Affects fat storage and appetite,70,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs2395185,12,42281760,CC,Obesity,Low,Affects fat storage and appetite,45,Consult specialist,Follow doctor’s advice
+FTO,rs3833302,19,67535968,CC,Cancer,High,Alters immune system function,43,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+APOE,rs1801133,19,107334067,TT,Stroke,Medium,Affects lipid metabolism,70,Consult specialist,Follow doctor’s advice
+APOE,rs17782313,18,40107095,GG,Type 2 Diabetes,Medium,Alters immune system function,36,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+LDLR,rs328,21,88760165,AG,Stroke,High,Affects folate metabolism,59,Consult specialist,Follow doctor’s advice
+BRCA2,rs562556,14,91030283,TT,Multiple Sclerosis,High,Impacts DNA repair mechanism,36,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+BRCA1,rs5930,21,103968617,CT,Alzheimer's Disease,High,Increases cholesterol levels,30,Consult specialist,Follow doctor’s advice
+FTO,rs429358,20,24412871,TT,Type 2 Diabetes,Low,Impacts DNA repair mechanism,30,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+BRCA1,rs328,4,98075058,AG,Heart Disease,High,Impacts DNA repair mechanism,47,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+BRCA1,rs3833302,10,59192845,CT,Cancer,High,Affects folate metabolism,51,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+SORT1,rs144848,13,127477224,TT,Breast Cancer,High,Affects lipid metabolism,48,Consult specialist,Follow doctor’s advice
+BRCA1,rs144848,1,106702579,CC,Type 2 Diabetes,High,Increases risk of cancer,64,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+HLA-DRB1,rs1800795,11,117816993,CC,Neural Tube Defects,Low,Increases inflammation,51,Consult specialist,Follow doctor’s advice
+MC4R,rs429358,23,83465450,TT,Neural Tube Defects,Low,Decreases cholesterol levels,79,Consult specialist,Follow doctor’s advice
+MC4R,rs144848,5,104646317,TT,Multiple Sclerosis,Low,Affects lipid metabolism,74,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+FTO,rs17782313,14,66594666,AA,Alzheimer's Disease,Medium,Increases cholesterol levels,41,Consult specialist,Follow doctor’s advice
+SORT1,rs2395185,18,101436989,CT,Neural Tube Defects,Medium,Decreases cholesterol levels,50,Consult specialist,Follow doctor’s advice
+BRCA2,rs144848,22,94392738,TT,Type 2 Diabetes,High,Affects fat storage and appetite,72,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+LDLR,rs429358,22,124918248,GG,Heart Disease,High,Decreases cholesterol levels,34,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+MC4R,rs1801133,1,104658070,CT,Neural Tube Defects,High,Affects fat storage and appetite,44,Consult specialist,Follow doctor’s advice
+LDLR,rs1801133,21,95911977,AG,Alzheimer's Disease,Medium,Affects fat storage and appetite,61,Consult specialist,Follow doctor’s advice
+BRCA1,rs328,21,27304547,CC,Neural Tube Defects,Medium,Impacts DNA repair mechanism,72,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs1801133,18,37316822,GG,Alzheimer's Disease,High,Decreases cholesterol levels,50,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs5930,9,93702539,CC,Cancer,High,Alters immune system function,76,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+APOE,rs562556,8,133591150,CT,Obesity,Low,Alters immune system function,46,Consult specialist,Follow doctor’s advice
+TP53,rs799917,16,63666844,AA,Obesity,High,Decreases cholesterol levels,40,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs1042522,2,86952493,TT,Heart Disease,Medium,Increases cholesterol levels,62,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+MC4R,rs799917,19,44382701,AG,Heart Disease,Medium,Impacts DNA repair mechanism,57,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+IL6,rs9939609,12,119988973,TT,Obesity,High,Affects fat storage and appetite,34,Consult specialist,Follow doctor’s advice
+BRCA1,rs9939609,4,19530249,CT,Stroke,High,Affects lipid metabolism,53,Consult specialist,Follow doctor’s advice
+APOE,rs5930,3,104441109,AG,Breast Cancer,Low,Affects lipid metabolism,53,Consult specialist,Follow doctor’s advice
+BRCA2,rs3833302,14,54529940,AG,Multiple Sclerosis,High,Increases inflammation,78,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+BRCA2,rs9939609,18,11145038,CC,Obesity,High,Increases inflammation,34,Consult specialist,Follow doctor’s advice
+MTHFR,rs2395185,2,107245308,GG,Type 2 Diabetes,High,Increases cholesterol levels,54,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+LPL,rs144848,23,95905699,TT,Cancer,High,Affects lipid metabolism,50,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+HLA-DRB1,rs799917,19,119496764,TT,Breast Cancer,Medium,Increases cholesterol levels,60,Consult specialist,Follow doctor’s advice
+LPL,rs3833302,21,76450057,CC,Stroke,Low,Increases risk of cancer,46,Consult specialist,Follow doctor’s advice
+LDLR,rs1042522,16,11388027,AA,Multiple Sclerosis,High,Increases risk of cancer,63,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+FTO,rs2395185,13,117093217,AG,Neural Tube Defects,High,Increases risk of cancer,54,Consult specialist,Follow doctor’s advice
+LDLR,rs5930,23,71452193,CT,Heart Disease,High,Increases cholesterol levels,51,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+BRCA1,rs328,19,26183712,GG,Stroke,High,Increases risk of cancer,30,Consult specialist,Follow doctor’s advice
+MC4R,rs17782313,20,58551748,TT,Alzheimer's Disease,Medium,Increases inflammation,60,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs799917,23,134523086,AA,Obesity,High,Affects folate metabolism,78,Consult specialist,Follow doctor’s advice
+PCSK9,rs429358,15,63108327,TT,Alzheimer's Disease,High,Increases risk of cancer,40,Consult specialist,Follow doctor’s advice
+LPL,rs17782313,21,30591330,TT,Cancer,Medium,Affects fat storage and appetite,37,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+FTO,rs1801133,17,56613830,TT,Multiple Sclerosis,Low,Increases risk of cancer,30,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+TP53,rs9939609,16,138225216,AA,Multiple Sclerosis,Medium,Impacts DNA repair mechanism,62,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+TP53,rs562556,14,29828402,AG,Alzheimer's Disease,Low,Increases cholesterol levels,41,Consult specialist,Follow doctor’s advice
+BRCA2,rs144848,6,104941079,CC,Type 2 Diabetes,Medium,Affects fat storage and appetite,76,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+BRCA1,rs562556,5,128613285,GG,Breast Cancer,Low,Impacts DNA repair mechanism,77,Consult specialist,Follow doctor’s advice
+LPL,rs144848,23,137539777,AA,Obesity,Low,Affects lipid metabolism,70,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs17782313,22,58869427,CT,Cancer,Medium,Affects folate metabolism,33,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+TP53,rs144848,14,107934024,GG,Breast Cancer,Medium,Decreases cholesterol levels,32,Consult specialist,Follow doctor’s advice
+MC4R,rs429358,11,27061351,AG,Neural Tube Defects,Low,Affects folate metabolism,62,Consult specialist,Follow doctor’s advice
+SORT1,rs328,18,86516618,TT,Alzheimer's Disease,Medium,Affects fat storage and appetite,36,Consult specialist,Follow doctor’s advice
+IL6,rs328,11,144444284,AA,Heart Disease,Low,Affects fat storage and appetite,66,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+FTO,rs144848,5,126899820,TT,Obesity,Medium,Affects lipid metabolism,38,Consult specialist,Follow doctor’s advice
+LDLR,rs1042522,18,100830598,CT,Alzheimer's Disease,Medium,Increases cholesterol levels,42,Consult specialist,Follow doctor’s advice
+MTHFR,rs799917,10,68164864,AA,Cancer,High,Affects lipid metabolism,65,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+APOE,rs1800795,11,107427684,TT,Multiple Sclerosis,High,Increases cholesterol levels,57,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+IL6,rs429358,16,76620226,CT,Neural Tube Defects,High,Decreases cholesterol levels,55,Consult specialist,Follow doctor’s advice
+BRCA2,rs5930,4,24489547,TT,Breast Cancer,Medium,Alters immune system function,47,Consult specialist,Follow doctor’s advice
+SORT1,rs9939609,6,65631664,CC,Neural Tube Defects,Medium,Decreases cholesterol levels,76,Consult specialist,Follow doctor’s advice
+PCSK9,rs144848,15,34044696,TT,Type 2 Diabetes,Low,Increases risk of cancer,58,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+MTHFR,rs1042522,14,123732429,AA,Cancer,High,Affects lipid metabolism,61,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+APOE,rs17782313,8,122374407,TT,Multiple Sclerosis,Low,Alters immune system function,38,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+FTO,rs3833302,12,126820220,GG,Type 2 Diabetes,Low,Increases inflammation,63,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+HLA-DRB1,rs799917,20,96560744,CC,Breast Cancer,High,Affects lipid metabolism,40,Consult specialist,Follow doctor’s advice
+BRCA2,rs328,20,27327415,CC,Heart Disease,Low,Affects fat storage and appetite,32,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+LDLR,rs1042522,17,41986510,TT,Multiple Sclerosis,High,Affects fat storage and appetite,80,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+BRCA1,rs1801133,22,27761865,AA,Obesity,Medium,Alters immune system function,63,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs429358,13,28356348,CC,Type 2 Diabetes,High,Increases risk of cancer,65,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+LPL,rs5930,16,35098796,GG,Alzheimer's Disease,Low,Decreases cholesterol levels,39,Consult specialist,Follow doctor’s advice
+BRCA1,rs2395185,9,11778951,AG,Stroke,Low,Affects fat storage and appetite,56,Consult specialist,Follow doctor’s advice
+MC4R,rs1800795,4,56752137,CT,Multiple Sclerosis,Medium,Affects folate metabolism,36,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+MC4R,rs17782313,5,50011077,GG,Type 2 Diabetes,Low,Increases cholesterol levels,75,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+HLA-DRB1,rs328,6,30212555,TT,Neural Tube Defects,Medium,Decreases cholesterol levels,40,Consult specialist,Follow doctor’s advice
+FTO,rs9939609,11,85644452,CC,Stroke,High,Decreases cholesterol levels,77,Consult specialist,Follow doctor’s advice
+BRCA2,rs9939609,5,93535380,CC,Obesity,High,Increases risk of cancer,46,Consult specialist,Follow doctor’s advice
+BRCA2,rs3833302,3,48512548,GG,Neural Tube Defects,Low,Alters immune system function,63,Consult specialist,Follow doctor’s advice
+LPL,rs1800795,8,100187804,GG,Type 2 Diabetes,Low,Increases risk of cancer,38,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+PCSK9,rs429358,15,38089759,CC,Cancer,High,Affects lipid metabolism,70,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+MTHFR,rs5930,10,97114754,AA,Multiple Sclerosis,High,Affects fat storage and appetite,62,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+BRCA2,rs799917,21,26553628,CC,Breast Cancer,High,Impacts DNA repair mechanism,39,Consult specialist,Follow doctor’s advice
+TP53,rs1801133,4,97133758,AA,Multiple Sclerosis,High,Alters immune system function,48,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+BRCA1,rs1042522,21,25038961,GG,Cancer,High,Affects fat storage and appetite,65,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+IL6,rs2395185,11,103592030,CC,Stroke,Low,Increases inflammation,71,Consult specialist,Follow doctor’s advice
+MC4R,rs429358,18,64756274,AG,Neural Tube Defects,High,Affects fat storage and appetite,66,Consult specialist,Follow doctor’s advice
+BRCA1,rs144848,23,100792860,CT,Type 2 Diabetes,Medium,Affects fat storage and appetite,33,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+BRCA1,rs1801133,13,133134712,AG,Alzheimer's Disease,High,Affects lipid metabolism,40,Consult specialist,Follow doctor’s advice
+SORT1,rs17782313,9,110313436,AA,Type 2 Diabetes,Low,Alters immune system function,50,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+APOE,rs562556,6,77798442,AG,Breast Cancer,High,Increases cholesterol levels,51,Consult specialist,Follow doctor’s advice
+LPL,rs429358,22,116727942,TT,Stroke,Medium,Affects fat storage and appetite,32,Consult specialist,Follow doctor’s advice
+BRCA1,rs429358,13,105259436,GG,Obesity,Low,Increases cholesterol levels,38,Consult specialist,Follow doctor’s advice
+IL6,rs144848,19,61561752,GG,Multiple Sclerosis,High,Affects fat storage and appetite,63,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+HLA-DRB1,rs1042522,23,127097484,AG,Neural Tube Defects,High,Alters immune system function,56,Consult specialist,Follow doctor’s advice
+BRCA2,rs9939609,21,148017743,AA,Neural Tube Defects,High,Affects fat storage and appetite,34,Consult specialist,Follow doctor’s advice
+MTHFR,rs2395185,2,20537292,GG,Alzheimer's Disease,Low,Alters immune system function,52,Consult specialist,Follow doctor’s advice
+BRCA1,rs1800795,6,102505756,AA,Neural Tube Defects,Medium,Increases inflammation,74,Consult specialist,Follow doctor’s advice
+MC4R,rs2395185,6,148536158,CT,Heart Disease,High,Affects lipid metabolism,42,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+TP53,rs429358,12,98856787,GG,Multiple Sclerosis,Low,Decreases cholesterol levels,79,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+MTHFR,rs17782313,15,122638981,TT,Breast Cancer,Low,Impacts DNA repair mechanism,56,Consult specialist,Follow doctor’s advice
+BRCA1,rs1800795,3,25397424,TT,Heart Disease,Low,Affects folate metabolism,42,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+SORT1,rs328,20,53803040,AA,Type 2 Diabetes,Low,Increases inflammation,32,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+LDLR,rs17782313,1,33221036,TT,Type 2 Diabetes,High,Affects folate metabolism,75,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+MTHFR,rs17782313,7,133364879,CT,Alzheimer's Disease,Low,Increases risk of cancer,63,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs9939609,2,25802536,CT,Multiple Sclerosis,Low,Increases cholesterol levels,33,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+MC4R,rs562556,1,57018232,GG,Breast Cancer,Medium,Increases cholesterol levels,64,Consult specialist,Follow doctor’s advice
+MC4R,rs1042522,4,91748527,AA,Heart Disease,Medium,Affects lipid metabolism,44,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+BRCA1,rs9939609,4,61428679,TT,Cancer,High,Affects fat storage and appetite,43,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+MC4R,rs5930,2,82159575,CT,Cancer,Low,Impacts DNA repair mechanism,74,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+TP53,rs1800795,2,85537167,TT,Neural Tube Defects,Low,Affects lipid metabolism,47,Consult specialist,Follow doctor’s advice
+FTO,rs144848,20,86614543,AA,Stroke,Low,Increases cholesterol levels,46,Consult specialist,Follow doctor’s advice
+FTO,rs799917,9,95353435,AA,Type 2 Diabetes,Low,Affects folate metabolism,76,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+APOE,rs5930,11,51411061,TT,Neural Tube Defects,High,Alters immune system function,79,Consult specialist,Follow doctor’s advice
+BRCA1,rs1800795,18,48633503,AG,Breast Cancer,Medium,Affects folate metabolism,47,Consult specialist,Follow doctor’s advice
+APOE,rs799917,9,42673767,GG,Breast Cancer,Low,Affects folate metabolism,45,Consult specialist,Follow doctor’s advice
+MC4R,rs9939609,21,34964928,GG,Multiple Sclerosis,High,Affects lipid metabolism,41,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+FTO,rs328,14,96558741,TT,Heart Disease,High,Decreases cholesterol levels,39,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+TP53,rs9939609,18,98858658,CC,Neural Tube Defects,High,Affects lipid metabolism,37,Consult specialist,Follow doctor’s advice
+LDLR,rs2395185,18,10201588,AA,Neural Tube Defects,Medium,Decreases cholesterol levels,32,Consult specialist,Follow doctor’s advice
+APOE,rs144848,18,102830182,AG,Multiple Sclerosis,Medium,Increases risk of cancer,30,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+HLA-DRB1,rs17782313,19,75703359,GG,Breast Cancer,Medium,Affects folate metabolism,75,Consult specialist,Follow doctor’s advice
+BRCA1,rs328,11,123393629,TT,Stroke,High,Increases cholesterol levels,43,Consult specialist,Follow doctor’s advice
+BRCA1,rs3833302,21,14095443,CC,Multiple Sclerosis,Low,Affects folate metabolism,69,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+FTO,rs429358,22,92988540,TT,Cancer,Low,Increases inflammation,51,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+PCSK9,rs1801133,17,107130215,TT,Breast Cancer,Medium,Increases inflammation,31,Consult specialist,Follow doctor’s advice
+LPL,rs1042522,12,110150128,CT,Alzheimer's Disease,Low,Affects folate metabolism,75,Consult specialist,Follow doctor’s advice
+PCSK9,rs3833302,11,55550609,GG,Neural Tube Defects,High,Increases risk of cancer,60,Consult specialist,Follow doctor’s advice
+IL6,rs562556,20,121728571,AA,Breast Cancer,Low,Affects fat storage and appetite,79,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs3833302,7,98375039,CT,Obesity,Medium,Affects fat storage and appetite,67,Consult specialist,Follow doctor’s advice
+APOE,rs429358,21,144399490,GG,Heart Disease,High,Increases cholesterol levels,71,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+PCSK9,rs1800795,19,65330422,GG,Multiple Sclerosis,Low,Increases inflammation,59,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+MTHFR,rs1800795,7,115718884,AG,Breast Cancer,Medium,Affects fat storage and appetite,45,Consult specialist,Follow doctor’s advice
+MC4R,rs328,15,16633742,CT,Cancer,Medium,Affects fat storage and appetite,41,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+PCSK9,rs144848,5,26038321,CT,Alzheimer's Disease,Low,Decreases cholesterol levels,74,Consult specialist,Follow doctor’s advice
+FTO,rs1800795,12,109763482,CT,Breast Cancer,Low,Impacts DNA repair mechanism,67,Consult specialist,Follow doctor’s advice
+FTO,rs562556,23,98225506,CC,Alzheimer's Disease,High,Affects lipid metabolism,55,Consult specialist,Follow doctor’s advice
+SORT1,rs1042522,6,69983243,TT,Alzheimer's Disease,High,Affects fat storage and appetite,74,Consult specialist,Follow doctor’s advice
+IL6,rs1042522,12,28205736,TT,Heart Disease,Medium,Affects folate metabolism,42,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+PCSK9,rs1801133,14,126585086,CC,Multiple Sclerosis,Medium,Decreases cholesterol levels,70,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+PCSK9,rs1801133,13,61467102,GG,Multiple Sclerosis,Low,Impacts DNA repair mechanism,42,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+PCSK9,rs328,16,129824787,AA,Stroke,Low,Affects lipid metabolism,72,Consult specialist,Follow doctor’s advice
+PCSK9,rs9939609,15,51444197,TT,Alzheimer's Disease,Medium,Increases risk of cancer,39,Consult specialist,Follow doctor’s advice
+LPL,rs3833302,4,36883855,AG,Type 2 Diabetes,Medium,Decreases cholesterol levels,58,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+TP53,rs9939609,19,97744703,AG,Obesity,Medium,Impacts DNA repair mechanism,36,Consult specialist,Follow doctor’s advice
+APOE,rs17782313,6,80479931,CT,Breast Cancer,High,Decreases cholesterol levels,50,Consult specialist,Follow doctor’s advice
+BRCA2,rs429358,17,119401441,AG,Breast Cancer,Low,Impacts DNA repair mechanism,80,Consult specialist,Follow doctor’s advice
+BRCA1,rs1042522,7,28917141,TT,Alzheimer's Disease,Medium,Increases risk of cancer,62,Consult specialist,Follow doctor’s advice
+LPL,rs328,8,115605161,GG,Multiple Sclerosis,Medium,Increases cholesterol levels,53,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+IL6,rs1800795,2,32944575,CC,Cancer,High,Increases cholesterol levels,36,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+APOE,rs3833302,11,32897273,AA,Cancer,High,Impacts DNA repair mechanism,36,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+MC4R,rs429358,21,148046350,AG,Breast Cancer,Medium,Increases cholesterol levels,72,Consult specialist,Follow doctor’s advice
+FTO,rs1042522,20,143922995,AG,Neural Tube Defects,High,Increases cholesterol levels,76,Consult specialist,Follow doctor’s advice
+IL6,rs3833302,2,36812126,CC,Breast Cancer,Low,Affects folate metabolism,48,Consult specialist,Follow doctor’s advice
+PCSK9,rs1800795,7,116665033,GG,Neural Tube Defects,Low,Affects folate metabolism,57,Consult specialist,Follow doctor’s advice
+TP53,rs429358,21,83071577,GG,Obesity,Medium,Increases cholesterol levels,44,Consult specialist,Follow doctor’s advice
+SORT1,rs799917,23,107434184,CT,Neural Tube Defects,Medium,Alters immune system function,72,Consult specialist,Follow doctor’s advice
+PCSK9,rs5930,2,143242145,CT,Alzheimer's Disease,High,Impacts DNA repair mechanism,33,Consult specialist,Follow doctor’s advice
+LPL,rs9939609,2,96838274,CC,Cancer,Low,Increases inflammation,58,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+TP53,rs328,8,107919566,AG,Breast Cancer,High,Affects fat storage and appetite,77,Consult specialist,Follow doctor’s advice
+PCSK9,rs562556,6,45740371,AG,Stroke,High,Impacts DNA repair mechanism,64,Consult specialist,Follow doctor’s advice
+IL6,rs5930,2,140737402,CC,Neural Tube Defects,Medium,Increases risk of cancer,52,Consult specialist,Follow doctor’s advice
+BRCA2,rs9939609,12,41394797,CT,Obesity,Low,Affects lipid metabolism,64,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs3833302,16,118054152,CT,Obesity,High,Increases inflammation,62,Consult specialist,Follow doctor’s advice
+MTHFR,rs429358,1,144054729,CT,Multiple Sclerosis,Low,Increases cholesterol levels,55,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+LDLR,rs562556,11,37242907,CT,Type 2 Diabetes,High,Alters immune system function,62,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+LPL,rs17782313,11,143269603,AA,Type 2 Diabetes,Medium,Affects folate metabolism,65,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+LDLR,rs328,4,144668757,AA,Breast Cancer,High,Increases cholesterol levels,77,Consult specialist,Follow doctor’s advice
+FTO,rs429358,2,63415222,TT,Obesity,Medium,Impacts DNA repair mechanism,66,Consult specialist,Follow doctor’s advice
+MC4R,rs429358,13,107041559,AA,Heart Disease,High,Affects fat storage and appetite,41,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+MTHFR,rs9939609,20,72897487,AG,Alzheimer's Disease,Medium,Decreases cholesterol levels,77,Consult specialist,Follow doctor’s advice
+BRCA2,rs17782313,23,31615505,TT,Obesity,Low,Increases inflammation,56,Consult specialist,Follow doctor’s advice
+LDLR,rs1042522,13,145389380,CT,Alzheimer's Disease,Medium,Affects fat storage and appetite,70,Consult specialist,Follow doctor’s advice
+PCSK9,rs5930,6,11391482,GG,Neural Tube Defects,Medium,Increases inflammation,46,Consult specialist,Follow doctor’s advice
+MTHFR,rs1801133,4,53817454,AA,Neural Tube Defects,Low,Affects folate metabolism,43,Consult specialist,Follow doctor’s advice
+FTO,rs9939609,19,70844924,TT,Obesity,High,Affects folate metabolism,30,Consult specialist,Follow doctor’s advice
+MC4R,rs1800795,2,76872144,CT,Breast Cancer,High,Alters immune system function,57,Consult specialist,Follow doctor’s advice
+MTHFR,rs144848,6,103144805,CT,Type 2 Diabetes,Medium,Impacts DNA repair mechanism,66,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+FTO,rs1042522,11,69045254,GG,Alzheimer's Disease,High,Increases cholesterol levels,50,Consult specialist,Follow doctor’s advice
+LDLR,rs799917,22,141943657,CC,Multiple Sclerosis,High,Decreases cholesterol levels,63,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+HLA-DRB1,rs1042522,9,65317287,TT,Alzheimer's Disease,Low,Affects lipid metabolism,72,Consult specialist,Follow doctor’s advice
+BRCA1,rs9939609,6,107418653,CT,Neural Tube Defects,High,Increases cholesterol levels,47,Consult specialist,Follow doctor’s advice
+IL6,rs1801133,3,127385413,AA,Alzheimer's Disease,Medium,Affects folate metabolism,48,Consult specialist,Follow doctor’s advice
+TP53,rs9939609,8,55165612,CT,Heart Disease,High,Increases cholesterol levels,79,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+LDLR,rs3833302,5,64306197,GG,Stroke,High,Increases risk of cancer,59,Consult specialist,Follow doctor’s advice
+TP53,rs1801133,16,50363047,CC,Multiple Sclerosis,High,Affects folate metabolism,34,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+MTHFR,rs17782313,12,63269539,CT,Breast Cancer,High,Alters immune system function,50,Consult specialist,Follow doctor’s advice
+PCSK9,rs5930,14,59996952,AG,Obesity,Low,Increases inflammation,65,Consult specialist,Follow doctor’s advice
+PCSK9,rs2395185,6,51539182,CC,Stroke,Medium,Affects folate metabolism,61,Consult specialist,Follow doctor’s advice
+BRCA2,rs17782313,21,79502052,CC,Breast Cancer,Low,Affects fat storage and appetite,33,Consult specialist,Follow doctor’s advice
+PCSK9,rs5930,5,31547058,AA,Obesity,Medium,Decreases cholesterol levels,45,Consult specialist,Follow doctor’s advice
+IL6,rs5930,2,61221955,TT,Multiple Sclerosis,Low,Decreases cholesterol levels,47,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+IL6,rs9939609,7,73682648,GG,Heart Disease,Low,Affects folate metabolism,35,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+MC4R,rs9939609,10,25949408,AA,Obesity,Medium,Affects lipid metabolism,33,Consult specialist,Follow doctor’s advice
+MTHFR,rs3833302,19,86615718,GG,Stroke,High,Increases risk of cancer,36,Consult specialist,Follow doctor’s advice
+MC4R,rs1800795,22,25978606,AA,Type 2 Diabetes,Low,Alters immune system function,42,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+LDLR,rs144848,11,123554375,TT,Multiple Sclerosis,High,Affects lipid metabolism,56,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+FTO,rs144848,19,16075267,AA,Breast Cancer,High,Increases cholesterol levels,80,Consult specialist,Follow doctor’s advice
+BRCA1,rs144848,4,36952610,GG,Cancer,High,Affects fat storage and appetite,61,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+HLA-DRB1,rs429358,8,148489525,AG,Multiple Sclerosis,High,Increases inflammation,51,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+MC4R,rs562556,11,129487271,AA,Alzheimer's Disease,High,Impacts DNA repair mechanism,64,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs1801133,21,90708542,CT,Cancer,Medium,Increases risk of cancer,63,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+MC4R,rs1801133,4,136021980,AG,Cancer,High,Increases risk of cancer,42,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+LDLR,rs328,13,67612934,AA,Heart Disease,High,Affects folate metabolism,55,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+LDLR,rs429358,10,120331311,TT,Breast Cancer,Medium,Affects fat storage and appetite,41,Consult specialist,Follow doctor’s advice
+PCSK9,rs562556,2,106927729,TT,Alzheimer's Disease,Medium,Increases cholesterol levels,63,Consult specialist,Follow doctor’s advice
+TP53,rs562556,3,19236523,AA,Breast Cancer,High,Decreases cholesterol levels,77,Consult specialist,Follow doctor’s advice
+APOE,rs799917,17,89007377,AG,Breast Cancer,High,Affects lipid metabolism,33,Consult specialist,Follow doctor’s advice
+SORT1,rs1801133,22,94759171,GG,Breast Cancer,Low,Decreases cholesterol levels,70,Consult specialist,Follow doctor’s advice
+APOE,rs144848,16,97541287,TT,Stroke,Low,Affects fat storage and appetite,71,Consult specialist,Follow doctor’s advice
+TP53,rs429358,14,123406565,AA,Stroke,Medium,Impacts DNA repair mechanism,47,Consult specialist,Follow doctor’s advice
+MC4R,rs328,10,122181072,GG,Cancer,Low,Affects lipid metabolism,61,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+APOE,rs2395185,20,141234194,AG,Neural Tube Defects,Low,Alters immune system function,47,Consult specialist,Follow doctor’s advice
+BRCA2,rs2395185,5,74724891,GG,Obesity,Medium,Affects lipid metabolism,46,Consult specialist,Follow doctor’s advice
+PCSK9,rs3833302,19,142978671,TT,Stroke,Low,Impacts DNA repair mechanism,77,Consult specialist,Follow doctor’s advice
+LPL,rs2395185,22,127510828,CT,Alzheimer's Disease,Low,Impacts DNA repair mechanism,56,Consult specialist,Follow doctor’s advice
+LDLR,rs328,12,16963217,CC,Stroke,Medium,Increases cholesterol levels,52,Consult specialist,Follow doctor’s advice
+FTO,rs1801133,1,135079076,AA,Obesity,High,Increases cholesterol levels,48,Consult specialist,Follow doctor’s advice
+LPL,rs5930,20,120602819,CT,Stroke,Low,Alters immune system function,55,Consult specialist,Follow doctor’s advice
+BRCA1,rs1042522,13,133147802,GG,Neural Tube Defects,Medium,Affects folate metabolism,48,Consult specialist,Follow doctor’s advice
+LDLR,rs328,3,67221433,CT,Alzheimer's Disease,Medium,Decreases cholesterol levels,59,Consult specialist,Follow doctor’s advice
+MTHFR,rs3833302,2,76879917,AG,Neural Tube Defects,Medium,Increases cholesterol levels,34,Consult specialist,Follow doctor’s advice
+MC4R,rs429358,14,20218267,GG,Obesity,Medium,Affects fat storage and appetite,44,Consult specialist,Follow doctor’s advice
+BRCA2,rs1042522,22,138565079,GG,Breast Cancer,High,Impacts DNA repair mechanism,48,Consult specialist,Follow doctor’s advice
+BRCA1,rs328,4,73311094,AA,Heart Disease,Low,Affects lipid metabolism,41,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+FTO,rs799917,13,90748263,TT,Multiple Sclerosis,Low,Increases risk of cancer,57,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+APOE,rs562556,4,76801546,AA,Neural Tube Defects,High,Affects folate metabolism,32,Consult specialist,Follow doctor’s advice
+APOE,rs799917,16,149005459,TT,Alzheimer's Disease,High,Affects folate metabolism,33,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs1801133,20,146908394,AA,Cancer,Medium,Increases cholesterol levels,65,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+PCSK9,rs1042522,7,48185672,AG,Breast Cancer,Low,Increases risk of cancer,74,Consult specialist,Follow doctor’s advice
+LPL,rs1800795,21,93705135,AG,Cancer,Medium,Increases risk of cancer,57,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+APOE,rs9939609,12,117542660,AA,Type 2 Diabetes,High,Affects folate metabolism,59,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+PCSK9,rs1801133,23,74890550,AA,Multiple Sclerosis,Medium,Increases inflammation,62,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+LPL,rs1042522,4,119122850,CT,Obesity,High,Affects folate metabolism,62,Consult specialist,Follow doctor’s advice
+MTHFR,rs2395185,3,122306988,AA,Cancer,Low,Decreases cholesterol levels,36,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+SORT1,rs562556,23,20657589,AG,Obesity,Medium,Increases cholesterol levels,80,Consult specialist,Follow doctor’s advice
+PCSK9,rs328,7,18732226,CT,Alzheimer's Disease,Low,Affects folate metabolism,68,Consult specialist,Follow doctor’s advice
+APOE,rs328,9,109163815,AA,Stroke,High,Affects folate metabolism,43,Consult specialist,Follow doctor’s advice
+BRCA2,rs3833302,18,135776085,AA,Obesity,High,Increases inflammation,52,Consult specialist,Follow doctor’s advice
+BRCA1,rs1801133,1,123500844,TT,Cancer,High,Affects folate metabolism,51,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+LPL,rs1042522,19,48721746,TT,Breast Cancer,Medium,Increases inflammation,74,Consult specialist,Follow doctor’s advice
+PCSK9,rs3833302,14,99791959,CC,Neural Tube Defects,High,Affects folate metabolism,54,Consult specialist,Follow doctor’s advice
+LDLR,rs144848,9,51680365,AG,Obesity,Low,Affects folate metabolism,66,Consult specialist,Follow doctor’s advice
+MTHFR,rs1800795,3,21207396,CC,Type 2 Diabetes,Low,Affects fat storage and appetite,65,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+IL6,rs17782313,9,146042211,GG,Stroke,Medium,Alters immune system function,60,Consult specialist,Follow doctor’s advice
+LPL,rs1042522,14,86182177,CC,Cancer,Medium,Impacts DNA repair mechanism,50,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+BRCA2,rs17782313,8,89709789,AA,Breast Cancer,Medium,Affects lipid metabolism,57,Consult specialist,Follow doctor’s advice
+FTO,rs1800795,6,57097967,TT,Multiple Sclerosis,Low,Alters immune system function,56,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+MC4R,rs17782313,5,80200269,AA,Breast Cancer,High,Alters immune system function,33,Consult specialist,Follow doctor’s advice
+APOE,rs1042522,5,119888547,CC,Cancer,Medium,Decreases cholesterol levels,59,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+LDLR,rs328,3,145689121,CC,Type 2 Diabetes,Medium,Alters immune system function,67,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+BRCA1,rs562556,13,105065127,AG,Stroke,Medium,Impacts DNA repair mechanism,61,Consult specialist,Follow doctor’s advice
+MTHFR,rs429358,4,135362106,GG,Obesity,Medium,Impacts DNA repair mechanism,68,Consult specialist,Follow doctor’s advice
+FTO,rs5930,22,81479911,AG,Obesity,High,Increases inflammation,56,Consult specialist,Follow doctor’s advice
+SORT1,rs562556,10,28280730,CC,Heart Disease,Medium,Alters immune system function,60,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+MTHFR,rs799917,17,30421343,CC,Heart Disease,Medium,Decreases cholesterol levels,54,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+TP53,rs328,10,124936303,CC,Obesity,Medium,Affects lipid metabolism,61,Consult specialist,Follow doctor’s advice
+LDLR,rs5930,23,30140870,GG,Alzheimer's Disease,Medium,Affects lipid metabolism,38,Consult specialist,Follow doctor’s advice
+BRCA2,rs17782313,2,28669834,AA,Breast Cancer,High,Increases inflammation,76,Consult specialist,Follow doctor’s advice
+IL6,rs1042522,5,78925049,AG,Alzheimer's Disease,High,Increases risk of cancer,80,Consult specialist,Follow doctor’s advice
+TP53,rs144848,10,28400767,CC,Type 2 Diabetes,High,Affects folate metabolism,45,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+LDLR,rs1042522,10,143166076,GG,Cancer,Medium,Affects fat storage and appetite,38,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+MC4R,rs9939609,8,90398798,CT,Type 2 Diabetes,Low,Increases risk of cancer,68,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+PCSK9,rs328,17,66560428,AG,Breast Cancer,High,Impacts DNA repair mechanism,51,Consult specialist,Follow doctor’s advice
+MTHFR,rs144848,16,57698030,TT,Obesity,Low,Increases cholesterol levels,37,Consult specialist,Follow doctor’s advice
+MC4R,rs562556,7,126704309,CT,Heart Disease,Low,Affects lipid metabolism,47,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+FTO,rs328,9,82007323,CT,Obesity,High,Increases inflammation,67,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs1800795,23,57199347,GG,Obesity,High,Increases risk of cancer,74,Consult specialist,Follow doctor’s advice
+APOE,rs1042522,23,139101069,CC,Multiple Sclerosis,Medium,Affects folate metabolism,79,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+FTO,rs1800795,3,65923337,TT,Obesity,Medium,Impacts DNA repair mechanism,50,Consult specialist,Follow doctor’s advice
+MTHFR,rs328,9,148263317,CT,Heart Disease,Medium,Affects fat storage and appetite,46,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+APOE,rs328,4,18052580,TT,Type 2 Diabetes,Low,Affects folate metabolism,49,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+BRCA2,rs3833302,16,137871712,AG,Type 2 Diabetes,Medium,Decreases cholesterol levels,62,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+LDLR,rs17782313,15,142239344,GG,Type 2 Diabetes,High,Increases inflammation,76,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+PCSK9,rs5930,7,27760177,CC,Breast Cancer,High,Affects folate metabolism,66,Consult specialist,Follow doctor’s advice
+MTHFR,rs799917,21,125291877,CC,Type 2 Diabetes,Medium,Impacts DNA repair mechanism,40,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+MTHFR,rs328,17,71771898,AA,Type 2 Diabetes,Medium,Affects lipid metabolism,60,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+SORT1,rs429358,23,137691889,TT,Stroke,Medium,Affects folate metabolism,71,Consult specialist,Follow doctor’s advice
+BRCA2,rs429358,5,108101272,CC,Cancer,Low,Increases inflammation,69,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+BRCA2,rs17782313,20,23869822,GG,Breast Cancer,Medium,Decreases cholesterol levels,73,Consult specialist,Follow doctor’s advice
+LDLR,rs1800795,4,66891011,CT,Multiple Sclerosis,Medium,Increases inflammation,49,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+BRCA1,rs562556,16,47198995,TT,Alzheimer's Disease,High,Decreases cholesterol levels,60,Consult specialist,Follow doctor’s advice
+BRCA2,rs3833302,16,57963286,GG,Breast Cancer,Low,Increases risk of cancer,68,Consult specialist,Follow doctor’s advice
+BRCA2,rs1800795,19,110677962,CC,Stroke,Medium,Affects fat storage and appetite,60,Consult specialist,Follow doctor’s advice
+PCSK9,rs328,11,79107089,CT,Heart Disease,High,Decreases cholesterol levels,45,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+SORT1,rs562556,1,121404572,CC,Heart Disease,Low,Impacts DNA repair mechanism,59,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+PCSK9,rs1801133,7,98013418,TT,Cancer,High,Affects lipid metabolism,63,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+PCSK9,rs9939609,11,143577146,TT,Obesity,Low,Decreases cholesterol levels,72,Consult specialist,Follow doctor’s advice
+MC4R,rs328,18,48096316,GG,Neural Tube Defects,High,Decreases cholesterol levels,72,Consult specialist,Follow doctor’s advice
+MTHFR,rs1800795,10,53693567,GG,Alzheimer's Disease,Low,Affects folate metabolism,68,Consult specialist,Follow doctor’s advice
+LDLR,rs328,13,84537042,CC,Cancer,Medium,Affects folate metabolism,50,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+BRCA2,rs1800795,13,141929256,GG,Multiple Sclerosis,Medium,Decreases cholesterol levels,51,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+FTO,rs429358,5,18089508,GG,Stroke,High,Increases cholesterol levels,32,Consult specialist,Follow doctor’s advice
+PCSK9,rs1800795,23,50529285,GG,Heart Disease,High,Increases cholesterol levels,42,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+SORT1,rs1801133,11,119878072,AA,Cancer,Medium,Increases risk of cancer,61,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+LDLR,rs2395185,9,148977185,AA,Alzheimer's Disease,High,Affects fat storage and appetite,30,Consult specialist,Follow doctor’s advice
+TP53,rs1801133,16,95230641,AA,Breast Cancer,Low,Increases cholesterol levels,50,Consult specialist,Follow doctor’s advice
+BRCA2,rs2395185,7,11079941,GG,Cancer,High,Affects fat storage and appetite,74,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+IL6,rs562556,21,98876194,CT,Stroke,Low,Increases cholesterol levels,36,Consult specialist,Follow doctor’s advice
+IL6,rs328,22,80984446,AG,Stroke,Low,Increases risk of cancer,62,Consult specialist,Follow doctor’s advice
+MTHFR,rs3833302,9,98035876,TT,Neural Tube Defects,Medium,Affects folate metabolism,39,Consult specialist,Follow doctor’s advice
+MC4R,rs2395185,22,82400608,AG,Neural Tube Defects,High,Affects fat storage and appetite,67,Consult specialist,Follow doctor’s advice
+MTHFR,rs429358,11,52891067,AA,Multiple Sclerosis,High,Increases cholesterol levels,35,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+APOE,rs1042522,22,76044436,AA,Obesity,High,Affects folate metabolism,30,Consult specialist,Follow doctor’s advice
+TP53,rs5930,18,117285776,AG,Neural Tube Defects,Low,Affects folate metabolism,50,Consult specialist,Follow doctor’s advice
+MTHFR,rs2395185,1,30020024,TT,Type 2 Diabetes,High,Affects folate metabolism,51,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+LPL,rs3833302,9,13475873,CT,Alzheimer's Disease,High,Affects folate metabolism,44,Consult specialist,Follow doctor’s advice
+FTO,rs562556,13,37236553,GG,Multiple Sclerosis,Medium,Increases cholesterol levels,78,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+TP53,rs2395185,17,147743426,AG,Cancer,Medium,Increases cholesterol levels,65,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+IL6,rs5930,2,14818736,CC,Stroke,High,Decreases cholesterol levels,52,Consult specialist,Follow doctor’s advice
+BRCA2,rs1800795,16,90177210,CC,Obesity,Medium,Increases inflammation,60,Consult specialist,Follow doctor’s advice
+BRCA2,rs1800795,11,52735517,CT,Type 2 Diabetes,Low,Affects folate metabolism,42,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+BRCA1,rs2395185,20,126099124,GG,Obesity,Medium,Increases cholesterol levels,43,Consult specialist,Follow doctor’s advice
+BRCA2,rs562556,18,44207868,GG,Stroke,High,Affects fat storage and appetite,35,Consult specialist,Follow doctor’s advice
+SORT1,rs9939609,18,123816106,TT,Breast Cancer,Medium,Impacts DNA repair mechanism,79,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs1800795,17,149195553,AG,Neural Tube Defects,High,Affects lipid metabolism,78,Consult specialist,Follow doctor’s advice
+MTHFR,rs1801133,4,131645015,AA,Obesity,Low,Affects fat storage and appetite,80,Consult specialist,Follow doctor’s advice
+MC4R,rs1800795,6,107442763,GG,Breast Cancer,High,Affects folate metabolism,43,Consult specialist,Follow doctor’s advice
+BRCA2,rs1042522,17,23483747,CT,Cancer,High,Increases cholesterol levels,71,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+BRCA2,rs2395185,4,48103210,TT,Type 2 Diabetes,High,Affects fat storage and appetite,47,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+LPL,rs1800795,4,140014563,AA,Breast Cancer,Medium,Alters immune system function,60,Consult specialist,Follow doctor’s advice
+APOE,rs1800795,6,71187460,AA,Neural Tube Defects,Medium,Affects folate metabolism,34,Consult specialist,Follow doctor’s advice
+LPL,rs2395185,6,108166813,CT,Stroke,Low,Impacts DNA repair mechanism,50,Consult specialist,Follow doctor’s advice
+FTO,rs328,11,83968250,CC,Multiple Sclerosis,High,Affects fat storage and appetite,36,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+MTHFR,rs1042522,16,115737545,TT,Multiple Sclerosis,High,Decreases cholesterol levels,63,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+MTHFR,rs9939609,8,43547673,TT,Multiple Sclerosis,Low,Affects lipid metabolism,54,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+HLA-DRB1,rs1801133,11,112332828,GG,Breast Cancer,Low,Increases cholesterol levels,47,Consult specialist,Follow doctor’s advice
+TP53,rs9939609,12,85542147,GG,Heart Disease,High,Decreases cholesterol levels,75,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+HLA-DRB1,rs328,14,129318403,AG,Stroke,High,Affects lipid metabolism,72,Consult specialist,Follow doctor’s advice
+TP53,rs1042522,1,59293117,AA,Stroke,Medium,Decreases cholesterol levels,54,Consult specialist,Follow doctor’s advice
+FTO,rs17782313,6,62512915,GG,Obesity,High,Increases cholesterol levels,41,Consult specialist,Follow doctor’s advice
+LPL,rs562556,11,147052665,GG,Multiple Sclerosis,Low,Affects folate metabolism,48,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+LPL,rs1042522,6,139113247,TT,Cancer,Medium,Increases inflammation,76,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+BRCA2,rs1801133,15,71261695,TT,Breast Cancer,High,Alters immune system function,41,Consult specialist,Follow doctor’s advice
+SORT1,rs1042522,13,43661699,GG,Obesity,Low,Increases cholesterol levels,65,Consult specialist,Follow doctor’s advice
+PCSK9,rs144848,16,88758799,AG,Cancer,Low,Alters immune system function,30,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+IL6,rs1042522,21,70447146,CT,Neural Tube Defects,High,Increases inflammation,32,Consult specialist,Follow doctor’s advice
+SORT1,rs17782313,22,48056276,GG,Type 2 Diabetes,High,Affects lipid metabolism,45,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+HLA-DRB1,rs2395185,11,22870254,TT,Type 2 Diabetes,High,Affects lipid metabolism,78,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+MC4R,rs17782313,23,122417564,CC,Obesity,Medium,Affects fat storage and appetite,66,Consult specialist,Follow doctor’s advice
+FTO,rs328,4,17609791,GG,Stroke,Low,Affects lipid metabolism,50,Consult specialist,Follow doctor’s advice
+FTO,rs429358,8,80257355,CT,Breast Cancer,Low,Decreases cholesterol levels,52,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs328,5,80143072,AA,Heart Disease,Medium,Increases cholesterol levels,79,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+FTO,rs144848,4,16463038,AA,Multiple Sclerosis,Low,Increases risk of cancer,76,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+PCSK9,rs799917,23,70253723,CC,Type 2 Diabetes,High,Increases risk of cancer,45,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+PCSK9,rs1801133,12,120220789,CT,Multiple Sclerosis,Medium,Affects folate metabolism,35,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+APOE,rs3833302,4,101859057,CC,Multiple Sclerosis,Medium,Impacts DNA repair mechanism,62,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+TP53,rs144848,8,119786946,GG,Neural Tube Defects,High,Impacts DNA repair mechanism,55,Consult specialist,Follow doctor’s advice
+PCSK9,rs1800795,10,38116962,CC,Breast Cancer,High,Affects lipid metabolism,71,Consult specialist,Follow doctor’s advice
+SORT1,rs562556,13,123098385,GG,Stroke,Medium,Increases inflammation,67,Consult specialist,Follow doctor’s advice
+IL6,rs1800795,15,36374493,AA,Cancer,Medium,Affects folate metabolism,79,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+FTO,rs17782313,5,48277493,GG,Heart Disease,Low,Increases inflammation,57,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+MC4R,rs5930,23,77262007,TT,Breast Cancer,Medium,Impacts DNA repair mechanism,76,Consult specialist,Follow doctor’s advice
+LDLR,rs799917,16,97015466,GG,Alzheimer's Disease,High,Increases risk of cancer,73,Consult specialist,Follow doctor’s advice
+SORT1,rs799917,7,147893679,CT,Breast Cancer,Medium,Affects fat storage and appetite,50,Consult specialist,Follow doctor’s advice
+APOE,rs1800795,14,81813930,CT,Obesity,High,Affects fat storage and appetite,55,Consult specialist,Follow doctor’s advice
+APOE,rs328,13,48379169,AA,Alzheimer's Disease,Medium,Impacts DNA repair mechanism,30,Consult specialist,Follow doctor’s advice
+LDLR,rs429358,11,146899159,AG,Neural Tube Defects,Low,Affects folate metabolism,30,Consult specialist,Follow doctor’s advice
+IL6,rs5930,6,73912898,TT,Neural Tube Defects,Low,Increases risk of cancer,35,Consult specialist,Follow doctor’s advice
+IL6,rs17782313,15,57490559,CT,Heart Disease,Medium,Affects folate metabolism,49,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+IL6,rs17782313,5,75859426,TT,Heart Disease,High,Decreases cholesterol levels,46,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+FTO,rs1800795,6,139075247,AA,Breast Cancer,Medium,Increases risk of cancer,63,Consult specialist,Follow doctor’s advice
+IL6,rs144848,2,127713513,AG,Heart Disease,High,Impacts DNA repair mechanism,64,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+MTHFR,rs9939609,21,45070167,CT,Obesity,Medium,Affects lipid metabolism,45,Consult specialist,Follow doctor’s advice
+APOE,rs2395185,1,32611898,AA,Stroke,High,Affects folate metabolism,34,Consult specialist,Follow doctor’s advice
+IL6,rs2395185,8,103016467,AA,Alzheimer's Disease,High,Increases risk of cancer,72,Consult specialist,Follow doctor’s advice
+MTHFR,rs144848,12,53402540,CT,Multiple Sclerosis,High,Affects lipid metabolism,75,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+MTHFR,rs9939609,6,48548747,GG,Heart Disease,Low,Increases cholesterol levels,67,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+SORT1,rs2395185,4,124546363,TT,Type 2 Diabetes,Low,Alters immune system function,38,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+SORT1,rs17782313,20,102763702,AG,Breast Cancer,Medium,Increases cholesterol levels,41,Consult specialist,Follow doctor’s advice
+LDLR,rs3833302,11,128545283,AG,Heart Disease,High,Impacts DNA repair mechanism,45,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+MC4R,rs799917,19,103049123,CC,Obesity,Medium,Impacts DNA repair mechanism,58,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs429358,11,63139269,CC,Type 2 Diabetes,Low,Increases inflammation,76,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+FTO,rs144848,23,50949867,TT,Multiple Sclerosis,High,Affects fat storage and appetite,39,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+SORT1,rs1800795,22,78924509,AG,Alzheimer's Disease,High,Affects folate metabolism,33,Consult specialist,Follow doctor’s advice
+MTHFR,rs429358,20,42386270,CT,Cancer,Low,Alters immune system function,80,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+FTO,rs5930,23,130455741,GG,Obesity,High,Decreases cholesterol levels,38,Consult specialist,Follow doctor’s advice
+APOE,rs144848,4,89162098,TT,Heart Disease,Low,Increases inflammation,71,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+MC4R,rs5930,12,87864597,CT,Cancer,Low,Affects folate metabolism,34,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+APOE,rs1801133,17,42639560,AG,Alzheimer's Disease,Medium,Increases inflammation,32,Consult specialist,Follow doctor’s advice
+IL6,rs1042522,2,50106726,CC,Alzheimer's Disease,High,Alters immune system function,54,Consult specialist,Follow doctor’s advice
+BRCA1,rs799917,18,130519303,TT,Heart Disease,High,Alters immune system function,75,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+SORT1,rs429358,22,142998375,CC,Multiple Sclerosis,Medium,Increases cholesterol levels,42,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+LDLR,rs1800795,7,125670090,GG,Obesity,Low,Alters immune system function,34,Consult specialist,Follow doctor’s advice
+MTHFR,rs3833302,17,87546859,TT,Breast Cancer,Low,Increases cholesterol levels,31,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs328,20,71920458,TT,Stroke,High,Increases cholesterol levels,67,Consult specialist,Follow doctor’s advice
+PCSK9,rs1800795,20,133749055,CC,Cancer,High,Affects fat storage and appetite,73,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+MTHFR,rs9939609,1,38188539,TT,Cancer,Low,Affects fat storage and appetite,78,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+APOE,rs9939609,13,45874279,AG,Neural Tube Defects,Low,Alters immune system function,66,Consult specialist,Follow doctor’s advice
+IL6,rs5930,22,86447190,AA,Obesity,Low,Decreases cholesterol levels,56,Consult specialist,Follow doctor’s advice
+BRCA1,rs5930,12,133248174,AA,Stroke,Medium,Affects folate metabolism,59,Consult specialist,Follow doctor’s advice
+IL6,rs5930,20,42590838,CT,Obesity,Low,Affects fat storage and appetite,80,Consult specialist,Follow doctor’s advice
+APOE,rs2395185,10,121550652,AG,Alzheimer's Disease,High,Increases risk of cancer,62,Consult specialist,Follow doctor’s advice
+LPL,rs1042522,1,119076473,CC,Breast Cancer,Low,Decreases cholesterol levels,79,Consult specialist,Follow doctor’s advice
+APOE,rs1800795,19,39736213,CC,Multiple Sclerosis,Low,Increases inflammation,50,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+IL6,rs9939609,22,48201092,AA,Breast Cancer,Medium,Impacts DNA repair mechanism,66,Consult specialist,Follow doctor’s advice
+PCSK9,rs328,9,60404846,TT,Alzheimer's Disease,Low,Affects lipid metabolism,58,Consult specialist,Follow doctor’s advice
+LDLR,rs562556,11,106761461,CC,Cancer,Medium,Affects folate metabolism,69,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+IL6,rs5930,12,83407978,CC,Heart Disease,Low,Increases cholesterol levels,45,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+MTHFR,rs1800795,17,55714781,TT,Breast Cancer,Low,Increases risk of cancer,58,Consult specialist,Follow doctor’s advice
+SORT1,rs1801133,23,50550042,CT,Multiple Sclerosis,High,Increases cholesterol levels,63,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+TP53,rs2395185,9,139601869,TT,Heart Disease,High,Impacts DNA repair mechanism,77,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+TP53,rs1801133,2,79250780,GG,Obesity,Low,Increases risk of cancer,59,Consult specialist,Follow doctor’s advice
+APOE,rs17782313,15,40284447,GG,Cancer,High,Decreases cholesterol levels,48,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+TP53,rs144848,4,91862976,CC,Type 2 Diabetes,Medium,Increases cholesterol levels,40,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+BRCA1,rs17782313,4,127485493,CC,Obesity,Medium,Affects folate metabolism,36,Consult specialist,Follow doctor’s advice
+MTHFR,rs1801133,9,29031532,CC,Heart Disease,Medium,Alters immune system function,63,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+IL6,rs1801133,6,28669804,TT,Neural Tube Defects,Low,Increases cholesterol levels,71,Consult specialist,Follow doctor’s advice
+BRCA2,rs144848,9,59735754,GG,Breast Cancer,High,Decreases cholesterol levels,77,Consult specialist,Follow doctor’s advice
+PCSK9,rs2395185,16,93417358,AA,Alzheimer's Disease,Low,Affects folate metabolism,79,Consult specialist,Follow doctor’s advice
+SORT1,rs5930,10,86278682,GG,Obesity,High,Decreases cholesterol levels,30,Consult specialist,Follow doctor’s advice
+FTO,rs429358,20,120849548,AG,Stroke,Low,Increases inflammation,55,Consult specialist,Follow doctor’s advice
+BRCA1,rs9939609,4,140458719,TT,Obesity,Medium,Decreases cholesterol levels,61,Consult specialist,Follow doctor’s advice
+BRCA2,rs3833302,18,138203490,GG,Heart Disease,Low,Affects folate metabolism,30,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+MC4R,rs17782313,16,122007603,TT,Heart Disease,Medium,Increases inflammation,70,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+BRCA2,rs1801133,22,143668482,AA,Heart Disease,Low,Increases cholesterol levels,76,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+SORT1,rs3833302,19,96789104,GG,Alzheimer's Disease,High,Increases cholesterol levels,76,Consult specialist,Follow doctor’s advice
+SORT1,rs3833302,22,39611958,AA,Heart Disease,Low,Increases inflammation,45,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+FTO,rs1800795,17,87007840,TT,Neural Tube Defects,Medium,Decreases cholesterol levels,37,Consult specialist,Follow doctor’s advice
+MTHFR,rs2395185,1,147123235,GG,Obesity,Low,Impacts DNA repair mechanism,35,Consult specialist,Follow doctor’s advice
+HLA-DRB1,rs9939609,17,102700646,CC,Cancer,Low,Increases risk of cancer,67,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+BRCA2,rs144848,11,92197549,AG,Stroke,Medium,Alters immune system function,61,Consult specialist,Follow doctor’s advice
+MC4R,rs3833302,11,92256579,TT,Multiple Sclerosis,Low,Increases risk of cancer,37,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+MTHFR,rs328,7,128227751,GG,Alzheimer's Disease,Low,Increases inflammation,49,Consult specialist,Follow doctor’s advice
+MC4R,rs2395185,2,143147639,AA,Cancer,Medium,Increases risk of cancer,55,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+FTO,rs5930,5,14785100,AA,Multiple Sclerosis,Medium,Affects folate metabolism,37,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+MC4R,rs1042522,11,30861334,CC,Cancer,Low,Impacts DNA repair mechanism,66,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+HLA-DRB1,rs17782313,15,130560808,CT,Obesity,High,Decreases cholesterol levels,54,Consult specialist,Follow doctor’s advice
+PCSK9,rs429358,13,63816300,AG,Multiple Sclerosis,High,Affects folate metabolism,73,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+SORT1,rs2395185,19,12065081,AG,Stroke,Medium,Impacts DNA repair mechanism,42,Consult specialist,Follow doctor’s advice
+PCSK9,rs5930,13,46383640,AG,Stroke,Low,Decreases cholesterol levels,64,Consult specialist,Follow doctor’s advice
+SORT1,rs9939609,16,117401737,AA,Obesity,Medium,Increases risk of cancer,59,Consult specialist,Follow doctor’s advice
+MTHFR,rs5930,21,18604726,CT,Neural Tube Defects,High,Impacts DNA repair mechanism,68,Consult specialist,Follow doctor’s advice
+LDLR,rs799917,15,101307103,CC,Multiple Sclerosis,Medium,Alters immune system function,33,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+APOE,rs3833302,16,147777845,CT,Cancer,Medium,Increases risk of cancer,42,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+FTO,rs429358,2,118568645,CC,Neural Tube Defects,Medium,Increases risk of cancer,78,Consult specialist,Follow doctor’s advice
+TP53,rs1800795,1,98708280,TT,Heart Disease,High,Affects fat storage and appetite,53,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+APOE,rs1801133,2,15700296,CC,Stroke,Medium,Increases risk of cancer,47,Consult specialist,Follow doctor’s advice
+LDLR,rs429358,14,136164384,CT,Breast Cancer,High,Affects fat storage and appetite,47,Consult specialist,Follow doctor’s advice
+BRCA1,rs1042522,22,15486812,GG,Breast Cancer,Medium,Alters immune system function,71,Consult specialist,Follow doctor’s advice
+SORT1,rs2395185,10,125636804,CT,Neural Tube Defects,Low,Affects folate metabolism,33,Consult specialist,Follow doctor’s advice
+TP53,rs5930,15,139590567,TT,Breast Cancer,Medium,Impacts DNA repair mechanism,77,Consult specialist,Follow doctor’s advice
+LPL,rs5930,19,29022221,AG,Heart Disease,Medium,Increases cholesterol levels,47,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+APOE,rs1801133,8,143117789,CC,Breast Cancer,Medium,Increases risk of cancer,66,Consult specialist,Follow doctor’s advice
+MC4R,rs562556,1,66724192,AA,Multiple Sclerosis,Medium,Affects fat storage and appetite,42,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+BRCA1,rs17782313,5,10246401,CC,Stroke,Low,Affects fat storage and appetite,80,Consult specialist,Follow doctor’s advice
+MC4R,rs1801133,15,19201376,AA,Heart Disease,Low,Increases cholesterol levels,45,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+HLA-DRB1,rs5930,21,19959223,CT,Breast Cancer,High,Increases cholesterol levels,30,Consult specialist,Follow doctor’s advice
+IL6,rs429358,8,28154416,GG,Stroke,High,Increases inflammation,78,Consult specialist,Follow doctor’s advice
+MTHFR,rs9939609,9,54376142,TT,Heart Disease,High,Impacts DNA repair mechanism,70,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+BRCA2,rs799917,14,81154804,CC,Type 2 Diabetes,High,Decreases cholesterol levels,51,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+PCSK9,rs562556,9,25715184,GG,Cancer,Low,Affects lipid metabolism,66,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+LPL,rs1801133,19,84772157,AA,Multiple Sclerosis,Medium,Increases inflammation,65,Methylprednisolone (IV),"Stay hydrated, avoid heat, and follow a low-stress lifestyle."
+LPL,rs328,1,147621358,CC,Obesity,Medium,Impacts DNA repair mechanism,46,Consult specialist,Follow doctor’s advice
+BRCA2,rs562556,13,18043865,CC,Obesity,Low,Affects folate metabolism,34,Consult specialist,Follow doctor’s advice
+FTO,rs429358,3,10517008,CT,Cancer,Medium,Increases cholesterol levels,62,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+FTO,rs3833302,16,95135857,CT,Neural Tube Defects,High,Affects lipid metabolism,48,Consult specialist,Follow doctor’s advice
+LPL,rs2395185,4,45110916,CC,Stroke,Medium,Impacts DNA repair mechanism,80,Consult specialist,Follow doctor’s advice
+LPL,rs799917,4,148093521,TT,Stroke,High,Impacts DNA repair mechanism,63,Consult specialist,Follow doctor’s advice
+MC4R,rs9939609,6,15119886,TT,Alzheimer's Disease,Medium,Affects folate metabolism,70,Consult specialist,Follow doctor’s advice
+SORT1,rs1042522,19,124979394,CC,Cancer,Low,Alters immune system function,46,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+IL6,rs429358,14,115949900,AA,Alzheimer's Disease,Low,Increases inflammation,53,Consult specialist,Follow doctor’s advice
+APOE,rs1042522,20,53101686,CC,Heart Disease,High,Increases inflammation,73,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+MTHFR,rs328,13,103514626,AA,Stroke,Medium,Affects lipid metabolism,53,Consult specialist,Follow doctor’s advice
+LPL,rs2395185,1,132788049,AA,Breast Cancer,High,Affects lipid metabolism,40,Consult specialist,Follow doctor’s advice
+FTO,rs1042522,6,100827152,AG,Stroke,High,Affects lipid metabolism,53,Consult specialist,Follow doctor’s advice
+TP53,rs429358,20,38640749,GG,Cancer,High,Affects lipid metabolism,32,Depends on type; consult oncologist,"Regular screenings, balanced diet, and avoid carcinogens."
+IL6,rs2395185,20,49274432,AA,Heart Disease,High,Alters immune system function,56,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+SORT1,rs1800795,20,123986929,CT,Type 2 Diabetes,High,Affects fat storage and appetite,65,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+HLA-DRB1,rs2395185,23,117707446,AG,Heart Disease,High,Increases cholesterol levels,40,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+IL6,rs2395185,19,133690087,AA,Heart Disease,High,Affects folate metabolism,47,"Aspirin 325mg (emergency), Nitroglycerin (as needed)","Maintain healthy weight, low-sodium diet, regular exercise."
+TP53,rs799917,17,60156272,AG,Type 2 Diabetes,Low,Affects fat storage and appetite,39,"Insulin (if needed), Metformin","Monitor blood sugar, avoid high-carb foods, stay active."
+SORT1,rs799917,3,54173700,TT,Neural Tube Defects,Medium,Affects fat storage and appetite,77,Consult specialist,Follow doctor’s advice
+FTO,rs1800795,20,22062510,CC,Breast Cancer,High,Impacts DNA repair mechanism,58,Consult specialist,Follow doctor’s advice
