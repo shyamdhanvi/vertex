@@ -1,15 +1,14 @@
 from flask import Flask, request, jsonify
 import pandas as pd
-import pickle
+import joblib
 from flask_cors import CORS
-import scipy.stats
 import traceback
-import json
+
 app = Flask(__name__)
 CORS(app)
 
-with open("C:\\Users\\dhanv\\Desktop\\Heackathon\\heart_disease_model.sav", "rb") as f:
-    model = pickle.load(f)
+# Load the model using joblib
+model = joblib.load("C:\\Users\\dhanv\\Desktop\\Heackathon\\heart_disease_model.sav")
 
 snps = ['rs123', 'rs456', 'rs789', 'rs101', 'rs102', 'rs103', 'rs104', 'rs105', 'rs106', 'rs107']
 genotypes = ['AA', 'AG', 'GG', 'TT', 'CC', 'TC', 'AT']
@@ -64,7 +63,8 @@ def predict():
         })
 
     except Exception as e:
+        traceback.print_exc()
         return jsonify({"error": str(e)}), 500
 
 if __name__ == "__main__":
-    app.run(debug=True, port = 6000)
+    app.run(debug=True, port=6000)
